@@ -141,6 +141,40 @@ def tag_inventory(facts_json: dict) -> dict:
     return out
 
 
+def check_annual_tieout(ticker, metric, quarters, facts, checks):
+    """The 4 quarters of a fiscal year should add up to the 10-K full-year number."""
+    for fy in annual_facts(facts):
+        if fy.end < date.fromisoformat(config.START_DATE):
+            continue
+        qs = [q for d, q in quarters.items() if fy.start <= q.start and q.end <= fy.end]
+        if len(qs) != 4:
+            checks.append({"ticker": ticker, "check": "annual_tieout", "metric": metric,
+                           "year_end": fy.end.isoformat(), "ok": False,
+                           "detail": f"found {len(qs)} quarters, expected 4"})
+            continue
+        total = sum(q.value for q in qs)
+        diff = abs(total - fy.value) / abs(fy.value) if fy.value else 0
+        checks.append({"ticker": ticker, "check": "annual_tieout", "metric": metric,
+                       "year_end": fy.end.isoformat(), "ok": diff < 0.005,
+                       "quarters_sum": total, "annual": fy.value})
+
+
+def check_completeness(ticker, rows, checks):
+    """No missing quarters, and no doubled-up calendar quarters."""
+    periods = [r["period"] for r in rows]
+    dupes = sorted({p for p in periods if periods.count(p) > 1})
+    gaps = []
+    for a, b in zip(rows, rows[1:]):
+        if (date.fromisoformat(b["start"]) - date.fromisoformat(a["end"])).days > 1:
+            gaps.append(f'{a["end"]} -> {b["start"]}')
+    negatives = [r["period"] for r in rows if r["capex"] is not None and r["capex"] <= 0]
+    checks.append({"ticker": ticker, "check": "completeness",
+                   "ok": not dupes and not gaps and not negatives,
+                   "quarters": len(rows), "first": periods[0] if periods else None,
+                   "last": periods[-1] if periods else None,
+                   "duplicate_periods": dupes, "gaps": gaps, "non_positive_capex": negatives})
+
+
 def main() -> None:
     DATA.mkdir(exist_ok=True)
     out = {"generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
