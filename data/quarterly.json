@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T03:48:59+00:00",
+ "generated_at": "2026-11-24T03:52:15+00:00",
  "units": "USD",
  "companies": {
   "MSFT": {
@@ -4781,10 +4781,10 @@
      "end": "2020-05-31",
      "sources": {
       "revenue": {
-       "method": "direct",
+       "method": "derived",
        "form": "10-K",
        "filed": "2022-06-21",
-       "tag": "Revenues",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/"
       },
       "operating_cash_flow": {
@@ -4802,13 +4802,13 @@
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/"
       }
      },
-     "revenue": 39068000000.0,
+     "revenue": 10439000000.0,
      "operating_cash_flow": 3614000000.0,
      "capex": 433000000.0,
      "finance_lease_principal": null,
      "free_cash_flow": 3181000000.0,
      "reinvestment_rate": 0.11981184283342557,
-     "capex_to_revenue": 0.011083239479881232
+     "capex_to_revenue": 0.04147906887632915
     },
     {
      "period": "2020Q3",
@@ -4921,11 +4921,11 @@
      "end": "2021-05-31",
      "sources": {
       "revenue": {
-       "method": "direct",
+       "method": "derived",
        "form": "10-K",
-       "filed": "2022-06-21",
-       "tag": "Revenues",
-       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/"
+       "filed": "2023-06-20",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/"
       },
       "operating_cash_flow": {
        "method": "derived",
@@ -4942,13 +4942,13 @@
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/"
       }
      },
-     "revenue": 40479000000.0,
+     "revenue": 11227000000.0,
      "operating_cash_flow": 4842000000.0,
      "capex": 717000000.0,
      "finance_lease_principal": null,
      "free_cash_flow": 4125000000.0,
      "reinvestment_rate": 0.14807930607187111,
-     "capex_to_revenue": 0.017712888164233307
+     "capex_to_revenue": 0.06386389952792376
     },
     {
      "period": "2021Q3",
@@ -5061,11 +5061,11 @@
      "end": "2022-05-31",
      "sources": {
       "revenue": {
-       "method": "direct",
+       "method": "derived",
        "form": "10-K",
-       "filed": "2022-06-21",
-       "tag": "Revenues",
-       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/"
+       "filed": "2024-06-20",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/"
       },
       "operating_cash_flow": {
        "method": "derived",
@@ -5082,13 +5082,13 @@
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/"
       }
      },
-     "revenue": 42440000000.0,
+     "revenue": 11840000000.0,
      "operating_cash_flow": 3985000000.0,
      "capex": 1423000000.0,
      "finance_lease_principal": null,
      "free_cash_flow": 2562000000.0,
      "reinvestment_rate": 0.35708908406524464,
-     "capex_to_revenue": 0.033529688972667296
+     "capex_to_revenue": 0.12018581081081081
     },
     {
      "period": "2022Q3",
@@ -6011,9 +6011,9 @@
       "revenue": {
        "method": "derived",
        "form": "10-K",
-       "filed": "2022-03-18",
-       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
-       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000036/"
+       "filed": "2024-02-21",
+       "tag": "Revenues",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000029/"
       },
       "operating_cash_flow": {
        "method": "derived",
