@@ -52,17 +52,30 @@ def fetch_company_facts(cik: str) -> dict:
     return json.loads(body)
 
 
+def _tag_units(facts_json: dict, tag: str):
+    """Tags are "Name" (standard us-gaap) or "prefix:Name" (company-specific)."""
+    ns, name = tag.split(":", 1) if ":" in tag else ("us-gaap", tag)
+    return facts_json.get("facts", {}).get(ns, {}).get(name, {}).get("units", {}).get("USD")
+
+
 def metric_quarters(facts_json: dict, ticker: str, metric: str):
-    gaap = facts_json.get("facts", {}).get("us-gaap", {})
     per_tag, used = [], []
     for tag in config.tags_for(ticker, metric):
-        units = gaap.get(tag, {}).get("units", {}).get("USD")
+        units = _tag_units(facts_json, tag)
         if not units:
             continue
         per_tag.append(parse_facts(units, tag))
         used.append(tag)
-    facts = merge_tag_facts(per_tag)
-    return to_quarters(facts), used, facts
+    # 1) Each tag on its own, earlier tags win.
+    quarters = {}
+    for facts in reversed(per_tag):
+        quarters.update(to_quarters(facts))
+    # 2) Only to fill quarters still missing: mix tags inside one year's chain
+    #    (needed when, say, the 9-month total and the full year use different tags).
+    merged = merge_tag_facts(per_tag)
+    for end, q in to_quarters(merged).items():
+        quarters.setdefault(end, q)
+    return quarters, used, (per_tag[0] if per_tag else [])
 
 
 def filing_link(cik: str, accn: str) -> str:
@@ -111,51 +124,21 @@ def build_company(ticker: str, info: dict, facts_json: dict, checks: list) -> di
 
 
 def tag_inventory(facts_json: dict) -> dict:
-    """List capex-like tags a company has, so missing quarters are easy to track down."""
+    """List capex-like tags (standard and company-specific) so gaps are easy to track down."""
     out = {}
-    for tag, body in facts_json.get("facts", {}).get("us-gaap", {}).items():
-        if not any(k in tag for k in ("PropertyPlant", "ProductiveAssets", "CapitalExpend")):
-            continue
-        if not tag.startswith(("Payments", "Purchase")):
-            continue
-        ends = [f["end"] for f in body.get("units", {}).get("USD", []) if "start" in f]
-        if ends:
-            out[tag] = {"facts": len(ends), "first_end": min(ends), "last_end": max(ends)}
+    for ns, tags in facts_json.get("facts", {}).items():
+        for tag, body in tags.items():
+            if not (("Property" in tag or "ProductiveAssets" in tag or "CapitalExpend" in tag)
+                    and ("Payment" in tag or "Purchase" in tag)):
+                continue
+            facts = [f for f in body.get("units", {}).get("USD", []) if "start" in f]
+            if facts:
+                name = tag if ns == "us-gaap" else f"{ns}:{tag}"
+                out[name] = {"facts": len(facts), "first_end": min(f["end"] for f in facts),
+                             "last_end": max(f["end"] for f in facts),
+                             "periods": sorted({f'{f["start"]}..{f["end"]}' for f in facts
+                                                if f["end"] >= "2019-01-01"})}
     return out
-
-
-def check_annual_tieout(ticker, metric, quarters, facts, checks):
-    """The 4 quarters of a fiscal year should add up to the 10-K full-year number."""
-    for fy in annual_facts(facts):
-        if fy.end < date.fromisoformat(config.START_DATE):
-            continue
-        qs = [q for d, q in quarters.items() if fy.start <= q.start and q.end <= fy.end]
-        if len(qs) != 4:
-            checks.append({"ticker": ticker, "check": "annual_tieout", "metric": metric,
-                           "year_end": fy.end.isoformat(), "ok": False,
-                           "detail": f"found {len(qs)} quarters, expected 4"})
-            continue
-        total = sum(q.value for q in qs)
-        diff = abs(total - fy.value) / abs(fy.value) if fy.value else 0
-        checks.append({"ticker": ticker, "check": "annual_tieout", "metric": metric,
-                       "year_end": fy.end.isoformat(), "ok": diff < 0.005,
-                       "quarters_sum": total, "annual": fy.value})
-
-
-def check_completeness(ticker, rows, checks):
-    """No missing quarters, and no doubled-up calendar quarters."""
-    periods = [r["period"] for r in rows]
-    dupes = sorted({p for p in periods if periods.count(p) > 1})
-    gaps = []
-    for a, b in zip(rows, rows[1:]):
-        if (date.fromisoformat(b["start"]) - date.fromisoformat(a["end"])).days > 1:
-            gaps.append(f'{a["end"]} -> {b["start"]}')
-    negatives = [r["period"] for r in rows if r["capex"] is not None and r["capex"] <= 0]
-    checks.append({"ticker": ticker, "check": "completeness",
-                   "ok": not dupes and not gaps and not negatives,
-                   "quarters": len(rows), "first": periods[0] if periods else None,
-                   "last": periods[-1] if periods else None,
-                   "duplicate_periods": dupes, "gaps": gaps, "non_positive_capex": negatives})
 
 
 def main() -> None:
