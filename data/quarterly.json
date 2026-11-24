@@ -1,0 +1,5978 @@
+{
+ "generated_at": "2026-11-24T03:46:38+00:00",
+ "units": "USD",
+ "companies": {
+  "MSFT": {
+   "name": "Microsoft",
+   "cik": "0000789019",
+   "role": "spender",
+   "fiscal_year_end": "June",
+   "tags_used": {
+    "revenue": [
+     "RevenueFromContractWithCustomerExcludingAssessedTax",
+     "Revenues",
+     "SalesRevenueNet"
+    ],
+    "operating_cash_flow": [
+     "NetCashProvidedByUsedInOperatingActivities"
+    ],
+    "capex": [
+     "PaymentsToAcquirePropertyPlantAndEquipment"
+    ],
+    "finance_lease_principal": [
+     "FinanceLeasePrincipalPayments"
+    ]
+   },
+   "quarters": [
+    {
+     "period": "2019Q4",
+     "start": "2019-10-01",
+     "end": "2019-12-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-01-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021002316/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-01-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021002316/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-01-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021002316/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-01-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021002316/"
+      }
+     },
+     "revenue": 36906000000.0,
+     "operating_cash_flow": 10680000000.0,
+     "capex": 3545000000.0,
+     "finance_lease_principal": 104000000.0,
+     "free_cash_flow": 7135000000.0,
+     "reinvestment_rate": 0.33192883895131087,
+     "capex_to_revenue": 0.09605484203110605
+    },
+    {
+     "period": "2020Q1",
+     "start": "2020-01-01",
+     "end": "2020-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-04-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021020891/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-04-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021020891/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-04-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021020891/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-04-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021020891/"
+      }
+     },
+     "revenue": 35021000000.0,
+     "operating_cash_flow": 17504000000.0,
+     "capex": 3767000000.0,
+     "finance_lease_principal": 110000000.0,
+     "free_cash_flow": 13737000000.0,
+     "reinvestment_rate": 0.2152079524680073,
+     "capex_to_revenue": 0.10756403300876617
+    },
+    {
+     "period": "2020Q2",
+     "start": "2020-04-01",
+     "end": "2020-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-K",
+       "filed": "2020-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459020034944/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2022-07-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022026876/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2022-07-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022026876/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2022-07-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022026876/"
+      }
+     },
+     "revenue": 38033000000.0,
+     "operating_cash_flow": 18673000000.0,
+     "capex": 4744000000.0,
+     "finance_lease_principal": 116000000.0,
+     "free_cash_flow": 13929000000.0,
+     "reinvestment_rate": 0.2540566593477213,
+     "capex_to_revenue": 0.12473378381931481
+    },
+    {
+     "period": "2020Q3",
+     "start": "2020-07-01",
+     "end": "2020-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-10-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021051992/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-10-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021051992/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-10-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021051992/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-10-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021051992/"
+      }
+     },
+     "revenue": 37154000000.0,
+     "operating_cash_flow": 19335000000.0,
+     "capex": 4907000000.0,
+     "finance_lease_principal": 136000000.0,
+     "free_cash_flow": 14428000000.0,
+     "reinvestment_rate": 0.2537884665115076,
+     "capex_to_revenue": 0.13207191688647252
+    },
+    {
+     "period": "2020Q4",
+     "start": "2020-10-01",
+     "end": "2020-12-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-01-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022002324/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-01-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022002324/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-01-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022002324/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-01-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022002324/"
+      }
+     },
+     "revenue": 43076000000.0,
+     "operating_cash_flow": 12516000000.0,
+     "capex": 4174000000.0,
+     "finance_lease_principal": 153000000.0,
+     "free_cash_flow": 8342000000.0,
+     "reinvestment_rate": 0.3334931287951422,
+     "capex_to_revenue": 0.0968985049679636
+    },
+    {
+     "period": "2021Q1",
+     "start": "2021-01-01",
+     "end": "2021-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-04-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022015675/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-04-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022015675/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-04-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022015675/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-04-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022015675/"
+      }
+     },
+     "revenue": 41706000000.0,
+     "operating_cash_flow": 22179000000.0,
+     "capex": 5089000000.0,
+     "finance_lease_principal": 168000000.0,
+     "free_cash_flow": 17090000000.0,
+     "reinvestment_rate": 0.2294512827449389,
+     "capex_to_revenue": 0.12202081235313864
+    },
+    {
+     "period": "2021Q2",
+     "start": "2021-04-01",
+     "end": "2021-06-30",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-07-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-07-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-07-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-07-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/"
+      }
+     },
+     "revenue": 46152000000.0,
+     "operating_cash_flow": 22710000000.0,
+     "capex": 6452000000.0,
+     "finance_lease_principal": 191000000.0,
+     "free_cash_flow": 16258000000.0,
+     "reinvestment_rate": 0.2841039189784236,
+     "capex_to_revenue": 0.13979892529034496
+    },
+    {
+     "period": "2021Q3",
+     "start": "2021-07-01",
+     "end": "2021-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-10-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022035087/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-10-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022035087/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-10-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022035087/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-10-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022035087/"
+      }
+     },
+     "revenue": 45317000000.0,
+     "operating_cash_flow": 24540000000.0,
+     "capex": 5810000000.0,
+     "finance_lease_principal": 200000000.0,
+     "free_cash_flow": 18730000000.0,
+     "reinvestment_rate": 0.23675631621841892,
+     "capex_to_revenue": 0.12820795727872542
+    },
+    {
+     "period": "2021Q4",
+     "start": "2021-10-01",
+     "end": "2021-12-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-01-24",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459023000733/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-01-24",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459023000733/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-01-24",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459023000733/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-01-24",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459023000733/"
+      }
+     },
+     "revenue": 51728000000.0,
+     "operating_cash_flow": 14480000000.0,
+     "capex": 5865000000.0,
+     "finance_lease_principal": 222000000.0,
+     "free_cash_flow": 8615000000.0,
+     "reinvestment_rate": 0.4050414364640884,
+     "capex_to_revenue": 0.11338153417878132
+    },
+    {
+     "period": "2022Q1",
+     "start": "2022-01-01",
+     "end": "2022-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023014423/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023014423/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023014423/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023014423/"
+      }
+     },
+     "revenue": 49360000000.0,
+     "operating_cash_flow": 25386000000.0,
+     "capex": 5340000000.0,
+     "finance_lease_principal": 233000000.0,
+     "free_cash_flow": 20046000000.0,
+     "reinvestment_rate": 0.21035216260931222,
+     "capex_to_revenue": 0.10818476499189628
+    },
+    {
+     "period": "2022Q2",
+     "start": "2022-04-01",
+     "end": "2022-06-30",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/"
+      }
+     },
+     "revenue": 51865000000.0,
+     "operating_cash_flow": 24629000000.0,
+     "capex": 6871000000.0,
+     "finance_lease_principal": 241000000.0,
+     "free_cash_flow": 17758000000.0,
+     "reinvestment_rate": 0.2789800641520159,
+     "capex_to_revenue": 0.1324785500819435
+    },
+    {
+     "period": "2022Q3",
+     "start": "2022-07-01",
+     "end": "2022-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-10-24",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023054855/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-10-24",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023054855/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-10-24",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023054855/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-10-24",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023054855/"
+      }
+     },
+     "revenue": 50122000000.0,
+     "operating_cash_flow": 23198000000.0,
+     "capex": 6283000000.0,
+     "finance_lease_principal": 256000000.0,
+     "free_cash_flow": 16915000000.0,
+     "reinvestment_rate": 0.27084231399258557,
+     "capex_to_revenue": 0.12535413590838354
+    },
+    {
+     "period": "2022Q4",
+     "start": "2022-10-01",
+     "end": "2022-12-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-01-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024008814/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-01-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024008814/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-01-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024008814/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-01-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024008814/"
+      }
+     },
+     "revenue": 52747000000.0,
+     "operating_cash_flow": 11173000000.0,
+     "capex": 6274000000.0,
+     "finance_lease_principal": 262000000.0,
+     "free_cash_flow": 4899000000.0,
+     "reinvestment_rate": 0.5615322652823772,
+     "capex_to_revenue": 0.11894515327885946
+    },
+    {
+     "period": "2023Q1",
+     "start": "2023-01-01",
+     "end": "2023-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/"
+      }
+     },
+     "revenue": 52857000000.0,
+     "operating_cash_flow": 24441000000.0,
+     "capex": 6607000000.0,
+     "finance_lease_principal": 272000000.0,
+     "free_cash_flow": 17834000000.0,
+     "reinvestment_rate": 0.27032445480954137,
+     "capex_to_revenue": 0.1249976351287436
+    },
+    {
+     "period": "2023Q2",
+     "start": "2023-04-01",
+     "end": "2023-06-30",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/"
+      }
+     },
+     "revenue": 56189000000.0,
+     "operating_cash_flow": 28770000000.0,
+     "capex": 8943000000.0,
+     "finance_lease_principal": 266000000.0,
+     "free_cash_flow": 19827000000.0,
+     "reinvestment_rate": 0.31084462982273203,
+     "capex_to_revenue": 0.15915926604851482
+    },
+    {
+     "period": "2023Q3",
+     "start": "2023-07-01",
+     "end": "2023-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024118967/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024118967/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024118967/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024118967/"
+      }
+     },
+     "revenue": 56517000000.0,
+     "operating_cash_flow": 30583000000.0,
+     "capex": 9917000000.0,
+     "finance_lease_principal": 285000000.0,
+     "free_cash_flow": 20666000000.0,
+     "reinvestment_rate": 0.32426511460615376,
+     "capex_to_revenue": 0.17546932781287047
+    },
+    {
+     "period": "2023Q4",
+     "start": "2023-10-01",
+     "end": "2023-12-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-01-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025010491/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-01-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025010491/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-01-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025010491/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-01-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025010491/"
+      }
+     },
+     "revenue": 62020000000.0,
+     "operating_cash_flow": 18853000000.0,
+     "capex": 9735000000.0,
+     "finance_lease_principal": 288000000.0,
+     "free_cash_flow": 9118000000.0,
+     "reinvestment_rate": 0.5163634434837957,
+     "capex_to_revenue": 0.1569654950016124
+    },
+    {
+     "period": "2024Q1",
+     "start": "2024-01-01",
+     "end": "2024-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025061046/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025061046/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025061046/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025061046/"
+      }
+     },
+     "revenue": 61858000000.0,
+     "operating_cash_flow": 31917000000.0,
+     "capex": 10952000000.0,
+     "finance_lease_principal": 323000000.0,
+     "free_cash_flow": 20965000000.0,
+     "reinvestment_rate": 0.3431400194253846,
+     "capex_to_revenue": 0.17705066442497333
+    },
+    {
+     "period": "2024Q2",
+     "start": "2024-04-01",
+     "end": "2024-06-30",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+      }
+     },
+     "revenue": 64727000000.0,
+     "operating_cash_flow": 37195000000.0,
+     "capex": 13873000000.0,
+     "finance_lease_principal": 390000000.0,
+     "free_cash_flow": 23322000000.0,
+     "reinvestment_rate": 0.37298023927947305,
+     "capex_to_revenue": 0.2143309592596598
+    },
+    {
+     "period": "2024Q3",
+     "start": "2024-07-01",
+     "end": "2024-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-10-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-10-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-10-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-10-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/"
+      }
+     },
+     "revenue": 65585000000.0,
+     "operating_cash_flow": 34180000000.0,
+     "capex": 14923000000.0,
+     "finance_lease_principal": 802000000.0,
+     "free_cash_flow": 19257000000.0,
+     "reinvestment_rate": 0.4366003510825044,
+     "capex_to_revenue": 0.22753678432568422
+    },
+    {
+     "period": "2024Q4",
+     "start": "2024-10-01",
+     "end": "2024-12-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-01-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-01-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-01-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-01-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/"
+      }
+     },
+     "revenue": 69632000000.0,
+     "operating_cash_flow": 22291000000.0,
+     "capex": 15804000000.0,
+     "finance_lease_principal": 480000000.0,
+     "free_cash_flow": 6487000000.0,
+     "reinvestment_rate": 0.7089856892916424,
+     "capex_to_revenue": 0.22696461397058823
+    },
+    {
+     "period": "2025Q1",
+     "start": "2025-01-01",
+     "end": "2025-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/"
+      }
+     },
+     "revenue": 70066000000.0,
+     "operating_cash_flow": 37044000000.0,
+     "capex": 16745000000.0,
+     "finance_lease_principal": 352000000.0,
+     "free_cash_flow": 20299000000.0,
+     "reinvestment_rate": 0.452030018356549,
+     "capex_to_revenue": 0.23898895327262867
+    },
+    {
+     "period": "2025Q2",
+     "start": "2025-04-01",
+     "end": "2025-06-30",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+      }
+     },
+     "revenue": 76441000000.0,
+     "operating_cash_flow": 42647000000.0,
+     "capex": 17079000000.0,
+     "finance_lease_principal": 649000000.0,
+     "free_cash_flow": 25568000000.0,
+     "reinvestment_rate": 0.4004736558257322,
+     "capex_to_revenue": 0.22342721837757223
+    },
+    {
+     "period": "2025Q3",
+     "start": "2025-07-01",
+     "end": "2025-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+      }
+     },
+     "revenue": 77673000000.0,
+     "operating_cash_flow": 45057000000.0,
+     "capex": 19394000000.0,
+     "finance_lease_principal": 639000000.0,
+     "free_cash_flow": 25663000000.0,
+     "reinvestment_rate": 0.4304325631977273,
+     "capex_to_revenue": 0.24968779369922625
+    },
+    {
+     "period": "2025Q4",
+     "start": "2025-10-01",
+     "end": "2025-12-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-01-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-01-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-01-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-01-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/"
+      }
+     },
+     "revenue": 81273000000.0,
+     "operating_cash_flow": 35758000000.0,
+     "capex": 29876000000.0,
+     "finance_lease_principal": 701000000.0,
+     "free_cash_flow": 5882000000.0,
+     "reinvestment_rate": 0.8355053414620505,
+     "capex_to_revenue": 0.367600556150259
+    },
+    {
+     "period": "2026Q1",
+     "start": "2026-01-01",
+     "end": "2026-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/"
+      }
+     },
+     "revenue": 82886000000.0,
+     "operating_cash_flow": 46679000000.0,
+     "capex": 30876000000.0,
+     "finance_lease_principal": 839000000.0,
+     "free_cash_flow": 15803000000.0,
+     "reinvestment_rate": 0.6614537586494997,
+     "capex_to_revenue": 0.3725116424969235
+    },
+    {
+     "period": "2026Q2",
+     "start": "2026-04-01",
+     "end": "2026-06-30",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+      }
+     },
+     "revenue": 90007000000.0,
+     "operating_cash_flow": 55441000000.0,
+     "capex": 35802000000.0,
+     "finance_lease_principal": 922000000.0,
+     "free_cash_flow": 19639000000.0,
+     "reinvestment_rate": 0.6457675727349795,
+     "capex_to_revenue": 0.3977690624062573
+    },
+    {
+     "period": "2026Q3",
+     "start": "2026-07-01",
+     "end": "2026-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+      }
+     },
+     "revenue": 92279000000.0,
+     "operating_cash_flow": 58000000000.0,
+     "capex": 39367000000.0,
+     "finance_lease_principal": 1000000000.0,
+     "free_cash_flow": 18633000000.0,
+     "reinvestment_rate": 0.6787413793103448,
+     "capex_to_revenue": 0.4266084374559759
+    }
+   ]
+  },
+  "GOOGL": {
+   "name": "Alphabet",
+   "cik": "0001652044",
+   "role": "spender",
+   "fiscal_year_end": "December",
+   "tags_used": {
+    "revenue": [
+     "RevenueFromContractWithCustomerExcludingAssessedTax",
+     "Revenues"
+    ],
+    "operating_cash_flow": [
+     "NetCashProvidedByUsedInOperatingActivities"
+    ],
+    "capex": [
+     "PaymentsToAcquirePropertyPlantAndEquipment"
+    ],
+    "finance_lease_principal": [
+     "FinanceLeasePrincipalPayments"
+    ]
+   },
+   "quarters": [
+    {
+     "period": "2019Q4",
+     "start": "2019-10-01",
+     "end": "2019-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2020-02-04",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204420000008/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2022-02-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000019/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2022-02-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000019/"
+      }
+     },
+     "revenue": 46075000000.0,
+     "operating_cash_flow": 14427000000.0,
+     "capex": 6052000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 8375000000.0,
+     "reinvestment_rate": 0.41949123171830593,
+     "capex_to_revenue": 0.13135105805751493
+    },
+    {
+     "period": "2020Q1",
+     "start": "2020-01-01",
+     "end": "2020-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-04-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204421000020/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-04-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204421000020/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-04-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204421000020/"
+      }
+     },
+     "revenue": 41159000000.0,
+     "operating_cash_flow": 11451000000.0,
+     "capex": 6005000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 5446000000.0,
+     "reinvestment_rate": 0.5244083486158414,
+     "capex_to_revenue": 0.1458976165601691
+    },
+    {
+     "period": "2020Q2",
+     "start": "2020-04-01",
+     "end": "2020-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-07-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204421000047/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-07-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204421000047/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2020-07-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204420000032/"
+      }
+     },
+     "revenue": 38297000000.0,
+     "operating_cash_flow": 13993000000.0,
+     "capex": 5391000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 8602000000.0,
+     "reinvestment_rate": 0.38526406060172946,
+     "capex_to_revenue": 0.14076820638692325
+    },
+    {
+     "period": "2020Q3",
+     "start": "2020-07-01",
+     "end": "2020-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-10-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204421000057/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-10-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204421000057/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2020-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204420000050/"
+      }
+     },
+     "revenue": 46173000000.0,
+     "operating_cash_flow": 17003000000.0,
+     "capex": 5406000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 11597000000.0,
+     "reinvestment_rate": 0.3179438922543081,
+     "capex_to_revenue": 0.11708141121434605
+    },
+    {
+     "period": "2020Q4",
+     "start": "2020-10-01",
+     "end": "2020-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-02-03",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000016/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-02-03",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000016/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-02-03",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000016/"
+      }
+     },
+     "revenue": 56898000000.0,
+     "operating_cash_flow": 22677000000.0,
+     "capex": 5479000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 17198000000.0,
+     "reinvestment_rate": 0.24161044229836398,
+     "capex_to_revenue": 0.09629512460894935
+    },
+    {
+     "period": "2021Q1",
+     "start": "2021-01-01",
+     "end": "2021-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-04-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000029/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-04-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000029/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-04-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000029/"
+      }
+     },
+     "revenue": 55314000000.0,
+     "operating_cash_flow": 19289000000.0,
+     "capex": 5942000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 13347000000.0,
+     "reinvestment_rate": 0.3080512209031054,
+     "capex_to_revenue": 0.10742307553241494
+    },
+    {
+     "period": "2021Q2",
+     "start": "2021-04-01",
+     "end": "2021-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-07-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000071/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2022-07-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000071/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2022-07-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000071/"
+      }
+     },
+     "revenue": 61880000000.0,
+     "operating_cash_flow": 21890000000.0,
+     "capex": 5496000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 16394000000.0,
+     "reinvestment_rate": 0.25107354956601186,
+     "capex_to_revenue": 0.08881706528765353
+    },
+    {
+     "period": "2021Q3",
+     "start": "2021-07-01",
+     "end": "2021-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-10-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000090/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2022-10-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000090/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2022-10-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000090/"
+      }
+     },
+     "revenue": 65118000000.0,
+     "operating_cash_flow": 25539000000.0,
+     "capex": 6819000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 18720000000.0,
+     "reinvestment_rate": 0.2670034065546811,
+     "capex_to_revenue": 0.1047175896065604
+    },
+    {
+     "period": "2021Q4",
+     "start": "2021-10-01",
+     "end": "2021-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-01-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000022/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-01-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000022/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-01-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000022/"
+      }
+     },
+     "revenue": 75325000000.0,
+     "operating_cash_flow": 24934000000.0,
+     "capex": 6383000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 18551000000.0,
+     "reinvestment_rate": 0.25599582898852974,
+     "capex_to_revenue": 0.08473946232990374
+    },
+    {
+     "period": "2022Q1",
+     "start": "2022-01-01",
+     "end": "2022-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-04-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000045/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-04-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000045/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-04-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000045/"
+      }
+     },
+     "revenue": 68011000000.0,
+     "operating_cash_flow": 25106000000.0,
+     "capex": 9786000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 15320000000.0,
+     "reinvestment_rate": 0.38978730184019755,
+     "capex_to_revenue": 0.14388848862683978
+    },
+    {
+     "period": "2022Q2",
+     "start": "2022-04-01",
+     "end": "2022-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-07-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000070/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2023-07-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000070/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2023-07-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000070/"
+      }
+     },
+     "revenue": 69685000000.0,
+     "operating_cash_flow": 19422000000.0,
+     "capex": 6828000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 12594000000.0,
+     "reinvestment_rate": 0.35156008649984555,
+     "capex_to_revenue": 0.09798378417162948
+    },
+    {
+     "period": "2022Q3",
+     "start": "2022-07-01",
+     "end": "2022-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-10-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000094/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2023-10-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000094/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2023-10-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000094/"
+      }
+     },
+     "revenue": 69092000000.0,
+     "operating_cash_flow": 23353000000.0,
+     "capex": 7276000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 16077000000.0,
+     "reinvestment_rate": 0.3115659658288014,
+     "capex_to_revenue": 0.10530886354425983
+    },
+    {
+     "period": "2022Q4",
+     "start": "2022-10-01",
+     "end": "2022-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-02-05",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-02-05",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-02-05",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/"
+      }
+     },
+     "revenue": 76048000000.0,
+     "operating_cash_flow": 23614000000.0,
+     "capex": 7595000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 16019000000.0,
+     "reinvestment_rate": 0.3216312357076311,
+     "capex_to_revenue": 0.09987113402061856
+    },
+    {
+     "period": "2023Q1",
+     "start": "2023-01-01",
+     "end": "2023-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-04-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000053/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-04-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000053/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-04-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000053/"
+      }
+     },
+     "revenue": 69787000000.0,
+     "operating_cash_flow": 23509000000.0,
+     "capex": 6289000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 17220000000.0,
+     "reinvestment_rate": 0.2675145688885108,
+     "capex_to_revenue": 0.09011707051456574
+    },
+    {
+     "period": "2023Q2",
+     "start": "2023-04-01",
+     "end": "2023-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-07-24",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000079/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-07-24",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000079/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-07-24",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000079/"
+      }
+     },
+     "revenue": 74604000000.0,
+     "operating_cash_flow": 28666000000.0,
+     "capex": 6888000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 21778000000.0,
+     "reinvestment_rate": 0.24028465778273914,
+     "capex_to_revenue": 0.09232748914267332
+    },
+    {
+     "period": "2023Q3",
+     "start": "2023-07-01",
+     "end": "2023-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000118/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000118/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000118/"
+      }
+     },
+     "revenue": 76693000000.0,
+     "operating_cash_flow": 30656000000.0,
+     "capex": 8055000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 22601000000.0,
+     "reinvestment_rate": 0.2627544363256785,
+     "capex_to_revenue": 0.10502914216421316
+    },
+    {
+     "period": "2023Q4",
+     "start": "2023-10-01",
+     "end": "2023-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-02-05",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-05",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-05",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
+      }
+     },
+     "revenue": 86310000000.0,
+     "operating_cash_flow": 18915000000.0,
+     "capex": 11019000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 7896000000.0,
+     "reinvestment_rate": 0.5825535289452816,
+     "capex_to_revenue": 0.12766770941953423
+    },
+    {
+     "period": "2024Q1",
+     "start": "2024-01-01",
+     "end": "2024-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000043/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000043/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000043/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000043/"
+      }
+     },
+     "revenue": 80539000000.0,
+     "operating_cash_flow": 28848000000.0,
+     "capex": 12012000000.0,
+     "finance_lease_principal": 90000000.0,
+     "free_cash_flow": 16836000000.0,
+     "reinvestment_rate": 0.4163893510815308,
+     "capex_to_revenue": 0.1491451346552602
+    },
+    {
+     "period": "2024Q2",
+     "start": "2024-04-01",
+     "end": "2024-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-07-24",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000079/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-07-24",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000062/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-07-24",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000062/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-07-24",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000062/"
+      }
+     },
+     "revenue": 84742000000.0,
+     "operating_cash_flow": 26640000000.0,
+     "capex": 13186000000.0,
+     "finance_lease_principal": 97000000.0,
+     "free_cash_flow": 13454000000.0,
+     "reinvestment_rate": 0.49496996996996995,
+     "capex_to_revenue": 0.15560170871586698
+    },
+    {
+     "period": "2024Q3",
+     "start": "2024-07-01",
+     "end": "2024-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000118/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000091/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000091/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000091/"
+      }
+     },
+     "revenue": 88268000000.0,
+     "operating_cash_flow": 30698000000.0,
+     "capex": 13061000000.0,
+     "finance_lease_principal": 127000000.0,
+     "free_cash_flow": 17637000000.0,
+     "reinvestment_rate": 0.4254674571633331,
+     "capex_to_revenue": 0.14796981918702135
+    },
+    {
+     "period": "2024Q4",
+     "start": "2024-10-01",
+     "end": "2024-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-02-05",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-05",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-05",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-05",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
+      }
+     },
+     "revenue": 96469000000.0,
+     "operating_cash_flow": 39113000000.0,
+     "capex": 14276000000.0,
+     "finance_lease_principal": 91000000.0,
+     "free_cash_flow": 24837000000.0,
+     "reinvestment_rate": 0.36499373609797253,
+     "capex_to_revenue": 0.147985363173662
+    },
+    {
+     "period": "2025Q1",
+     "start": "2025-01-01",
+     "end": "2025-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000043/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/"
+      }
+     },
+     "revenue": 90234000000.0,
+     "operating_cash_flow": 36150000000.0,
+     "capex": 17197000000.0,
+     "finance_lease_principal": 192000000.0,
+     "free_cash_flow": 18953000000.0,
+     "reinvestment_rate": 0.47571230982019364,
+     "capex_to_revenue": 0.19058226389165947
+    },
+    {
+     "period": "2025Q2",
+     "start": "2025-04-01",
+     "end": "2025-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-07-23",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-07-23",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-07-23",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-07-23",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+      }
+     },
+     "revenue": 96428000000.0,
+     "operating_cash_flow": 27747000000.0,
+     "capex": 22446000000.0,
+     "finance_lease_principal": 110000000.0,
+     "free_cash_flow": 5301000000.0,
+     "reinvestment_rate": 0.8089523191696399,
+     "capex_to_revenue": 0.23277471273903846
+    },
+    {
+     "period": "2025Q3",
+     "start": "2025-07-01",
+     "end": "2025-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-10-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-10-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
+      }
+     },
+     "revenue": 102346000000.0,
+     "operating_cash_flow": 48414000000.0,
+     "capex": 23953000000.0,
+     "finance_lease_principal": 92000000.0,
+     "free_cash_flow": 24461000000.0,
+     "reinvestment_rate": 0.49475358367414385,
+     "capex_to_revenue": 0.234039434858226
+    },
+    {
+     "period": "2025Q4",
+     "start": "2025-10-01",
+     "end": "2025-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-05",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-05",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-05",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-05",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
+      }
+     },
+     "revenue": 113829000000.0,
+     "operating_cash_flow": 52402000000.0,
+     "capex": 27851000000.0,
+     "finance_lease_principal": 1594000000.0,
+     "free_cash_flow": 24551000000.0,
+     "reinvestment_rate": 0.5314873478111523,
+     "capex_to_revenue": 0.24467402858673976
+    },
+    {
+     "period": "2026Q1",
+     "start": "2026-01-01",
+     "end": "2026-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/"
+      }
+     },
+     "revenue": 109896000000.0,
+     "operating_cash_flow": 45790000000.0,
+     "capex": 35674000000.0,
+     "finance_lease_principal": 522000000.0,
+     "free_cash_flow": 10116000000.0,
+     "reinvestment_rate": 0.7790784013976851,
+     "capex_to_revenue": 0.3246160005823688
+    },
+    {
+     "period": "2026Q2",
+     "start": "2026-04-01",
+     "end": "2026-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-07-23",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-07-23",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-07-23",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-07-23",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+      }
+     },
+     "revenue": 119796000000.0,
+     "operating_cash_flow": 39069000000.0,
+     "capex": 44924000000.0,
+     "finance_lease_principal": 318000000.0,
+     "free_cash_flow": -5855000000.0,
+     "reinvestment_rate": 1.1498630627863524,
+     "capex_to_revenue": 0.3750041737620622
+    },
+    {
+     "period": "2026Q3",
+     "start": "2026-07-01",
+     "end": "2026-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-10-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-10-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
+      }
+     },
+     "revenue": 127577000000.0,
+     "operating_cash_flow": 42290000000.0,
+     "capex": 51355000000.0,
+     "finance_lease_principal": 1110000000.0,
+     "free_cash_flow": -9065000000.0,
+     "reinvestment_rate": 1.2143532750059116,
+     "capex_to_revenue": 0.40254121040626445
+    }
+   ]
+  },
+  "AMZN": {
+   "name": "Amazon",
+   "cik": "0001018724",
+   "role": "spender",
+   "fiscal_year_end": "December",
+   "tags_used": {
+    "revenue": [
+     "RevenueFromContractWithCustomerExcludingAssessedTax",
+     "SalesRevenueNet"
+    ],
+    "operating_cash_flow": [
+     "NetCashProvidedByUsedInOperatingActivities"
+    ],
+    "capex": [
+     "PaymentsToAcquireProductiveAssets",
+     "PaymentsToAcquirePropertyPlantAndEquipment"
+    ],
+    "finance_lease_principal": [
+     "FinanceLeasePrincipalPayments",
+     "RepaymentsOfLongTermCapitalLeaseObligations"
+    ]
+   },
+   "quarters": [
+    {
+     "period": "2019Q4",
+     "start": "2019-10-01",
+     "end": "2019-12-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-K",
+       "filed": "2021-02-03",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2022-02-04",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2022-02-04",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2022-02-04",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/"
+      }
+     },
+     "revenue": 87437000000.0,
+     "operating_cash_flow": 19659000000.0,
+     "capex": 5312000000.0,
+     "finance_lease_principal": 2780000000.0,
+     "free_cash_flow": 14347000000.0,
+     "reinvestment_rate": 0.2702070298590976,
+     "capex_to_revenue": 0.06075231309399911
+    },
+    {
+     "period": "2020Q1",
+     "start": "2020-01-01",
+     "end": "2020-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/"
+      }
+     },
+     "revenue": 75452000000.0,
+     "operating_cash_flow": 3064000000.0,
+     "capex": 6795000000.0,
+     "finance_lease_principal": 2600000000.0,
+     "free_cash_flow": -3731000000.0,
+     "reinvestment_rate": 2.2176892950391647,
+     "capex_to_revenue": 0.09005725494354026
+    },
+    {
+     "period": "2020Q2",
+     "start": "2020-04-01",
+     "end": "2020-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/"
+      }
+     },
+     "revenue": 88912000000.0,
+     "operating_cash_flow": 20606000000.0,
+     "capex": 7459000000.0,
+     "finance_lease_principal": 2817000000.0,
+     "free_cash_flow": 13147000000.0,
+     "reinvestment_rate": 0.3619819470057265,
+     "capex_to_revenue": 0.08389193809609502
+    },
+    {
+     "period": "2020Q3",
+     "start": "2020-07-01",
+     "end": "2020-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-10-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-10-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-10-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-10-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/"
+      }
+     },
+     "revenue": 96145000000.0,
+     "operating_cash_flow": 11964000000.0,
+     "capex": 11063000000.0,
+     "finance_lease_principal": 2857000000.0,
+     "free_cash_flow": 901000000.0,
+     "reinvestment_rate": 0.9246907388833167,
+     "capex_to_revenue": 0.1150657860523168
+    },
+    {
+     "period": "2020Q4",
+     "start": "2020-10-01",
+     "end": "2020-12-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-K",
+       "filed": "2021-02-03",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-02-03",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-02-03",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-02-03",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/"
+      }
+     },
+     "revenue": 125555000000.0,
+     "operating_cash_flow": 30431000000.0,
+     "capex": 14823000000.0,
+     "finance_lease_principal": 2368000000.0,
+     "free_cash_flow": 15608000000.0,
+     "reinvestment_rate": 0.4871019683874996,
+     "capex_to_revenue": 0.11805981442395763
+    },
+    {
+     "period": "2021Q1",
+     "start": "2021-01-01",
+     "end": "2021-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-04-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-04-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-04-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-04-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/"
+      }
+     },
+     "revenue": 108518000000.0,
+     "operating_cash_flow": 4213000000.0,
+     "capex": 12082000000.0,
+     "finance_lease_principal": 3406000000.0,
+     "free_cash_flow": -7869000000.0,
+     "reinvestment_rate": 2.867790173273202,
+     "capex_to_revenue": 0.11133636816012091
+    },
+    {
+     "period": "2021Q2",
+     "start": "2021-04-01",
+     "end": "2021-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/"
+      }
+     },
+     "revenue": 113080000000.0,
+     "operating_cash_flow": 12715000000.0,
+     "capex": 14288000000.0,
+     "finance_lease_principal": 2804000000.0,
+     "free_cash_flow": -1573000000.0,
+     "reinvestment_rate": 1.1237121510027526,
+     "capex_to_revenue": 0.12635302440749913
+    },
+    {
+     "period": "2021Q3",
+     "start": "2021-07-01",
+     "end": "2021-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-10-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-10-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-10-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-10-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/"
+      }
+     },
+     "revenue": 110812000000.0,
+     "operating_cash_flow": 7313000000.0,
+     "capex": 15748000000.0,
+     "finance_lease_principal": 2693000000.0,
+     "free_cash_flow": -8435000000.0,
+     "reinvestment_rate": 2.1534254068097907,
+     "capex_to_revenue": 0.14211457242897882
+    },
+    {
+     "period": "2021Q4",
+     "start": "2021-10-01",
+     "end": "2021-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-02-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-02-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-02-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-02-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/"
+      }
+     },
+     "revenue": 137412000000.0,
+     "operating_cash_flow": 22086000000.0,
+     "capex": 18935000000.0,
+     "finance_lease_principal": 2260000000.0,
+     "free_cash_flow": 3151000000.0,
+     "reinvestment_rate": 0.8573304355700444,
+     "capex_to_revenue": 0.13779728116903908
+    },
+    {
+     "period": "2022Q1",
+     "start": "2022-01-01",
+     "end": "2022-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-04-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-04-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-04-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-04-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/"
+      }
+     },
+     "revenue": 116444000000.0,
+     "operating_cash_flow": -2790000000.0,
+     "capex": 14951000000.0,
+     "finance_lease_principal": 2777000000.0,
+     "free_cash_flow": -17741000000.0,
+     "reinvestment_rate": -5.358781362007169,
+     "capex_to_revenue": 0.12839648242932225
+    },
+    {
+     "period": "2022Q2",
+     "start": "2022-04-01",
+     "end": "2022-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-08-04",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-08-04",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-08-04",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-08-04",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/"
+      }
+     },
+     "revenue": 121234000000.0,
+     "operating_cash_flow": 8965000000.0,
+     "capex": 15724000000.0,
+     "finance_lease_principal": 2059000000.0,
+     "free_cash_flow": -6759000000.0,
+     "reinvestment_rate": 1.7539319576129393,
+     "capex_to_revenue": 0.12969958922414504
+    },
+    {
+     "period": "2022Q3",
+     "start": "2022-07-01",
+     "end": "2022-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-10-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-10-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-10-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-10-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/"
+      }
+     },
+     "revenue": 127101000000.0,
+     "operating_cash_flow": 11404000000.0,
+     "capex": 16378000000.0,
+     "finance_lease_principal": 1465000000.0,
+     "free_cash_flow": -4974000000.0,
+     "reinvestment_rate": 1.4361627499123115,
+     "capex_to_revenue": 0.128858152178189
+    },
+    {
+     "period": "2022Q4",
+     "start": "2022-10-01",
+     "end": "2022-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-02-07",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-02-07",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-02-07",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-02-07",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/"
+      }
+     },
+     "revenue": 149204000000.0,
+     "operating_cash_flow": 29173000000.0,
+     "capex": 16592000000.0,
+     "finance_lease_principal": 1640000000.0,
+     "free_cash_flow": 12581000000.0,
+     "reinvestment_rate": 0.5687450724985432,
+     "capex_to_revenue": 0.11120345299053645
+    },
+    {
+     "period": "2023Q1",
+     "start": "2023-01-01",
+     "end": "2023-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-05-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-05-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-05-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-05-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/"
+      }
+     },
+     "revenue": 127358000000.0,
+     "operating_cash_flow": 4788000000.0,
+     "capex": 14207000000.0,
+     "finance_lease_principal": 1380000000.0,
+     "free_cash_flow": -9419000000.0,
+     "reinvestment_rate": 2.9672096908939016,
+     "capex_to_revenue": 0.11155168893983888
+    },
+    {
+     "period": "2023Q2",
+     "start": "2023-04-01",
+     "end": "2023-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-08-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-08-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-08-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-08-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/"
+      }
+     },
+     "revenue": 134383000000.0,
+     "operating_cash_flow": 16476000000.0,
+     "capex": 11455000000.0,
+     "finance_lease_principal": 1220000000.0,
+     "free_cash_flow": 5021000000.0,
+     "reinvestment_rate": 0.6952537023549406,
+     "capex_to_revenue": 0.08524143678887955
+    },
+    {
+     "period": "2023Q3",
+     "start": "2023-07-01",
+     "end": "2023-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-11-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-11-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-11-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-11-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/"
+      }
+     },
+     "revenue": 143083000000.0,
+     "operating_cash_flow": 21217000000.0,
+     "capex": 12479000000.0,
+     "finance_lease_principal": 1005000000.0,
+     "free_cash_flow": 8738000000.0,
+     "reinvestment_rate": 0.5881604373851157,
+     "capex_to_revenue": 0.08721511290649483
+    },
+    {
+     "period": "2023Q4",
+     "start": "2023-10-01",
+     "end": "2023-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-06",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-06",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-06",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-06",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
+      }
+     },
+     "revenue": 169961000000.0,
+     "operating_cash_flow": 42465000000.0,
+     "capex": 14588000000.0,
+     "finance_lease_principal": 779000000.0,
+     "free_cash_flow": 27877000000.0,
+     "reinvestment_rate": 0.3435299658542329,
+     "capex_to_revenue": 0.08583145545154476
+    },
+    {
+     "period": "2024Q1",
+     "start": "2024-01-01",
+     "end": "2024-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-05-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-05-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-05-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-05-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/"
+      }
+     },
+     "revenue": 143313000000.0,
+     "operating_cash_flow": 18989000000.0,
+     "capex": 14925000000.0,
+     "finance_lease_principal": 770000000.0,
+     "free_cash_flow": 4064000000.0,
+     "reinvestment_rate": 0.7859813576281005,
+     "capex_to_revenue": 0.10414268070586757
+    },
+    {
+     "period": "2024Q2",
+     "start": "2024-04-01",
+     "end": "2024-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-08-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-08-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-08-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-08-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/"
+      }
+     },
+     "revenue": 147977000000.0,
+     "operating_cash_flow": 25281000000.0,
+     "capex": 17620000000.0,
+     "finance_lease_principal": 538000000.0,
+     "free_cash_flow": 7661000000.0,
+     "reinvestment_rate": 0.6969661010244848,
+     "capex_to_revenue": 0.1190725585732918
+    },
+    {
+     "period": "2024Q3",
+     "start": "2024-07-01",
+     "end": "2024-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-10-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-10-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-10-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-10-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/"
+      }
+     },
+     "revenue": 158877000000.0,
+     "operating_cash_flow": 25971000000.0,
+     "capex": 22620000000.0,
+     "finance_lease_principal": 402000000.0,
+     "free_cash_flow": 3351000000.0,
+     "reinvestment_rate": 0.8709714681760425,
+     "capex_to_revenue": 0.14237428954474216
+    },
+    {
+     "period": "2024Q4",
+     "start": "2024-10-01",
+     "end": "2024-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-06",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-06",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-06",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-06",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
+      }
+     },
+     "revenue": 187792000000.0,
+     "operating_cash_flow": 45636000000.0,
+     "capex": 27834000000.0,
+     "finance_lease_principal": 333000000.0,
+     "free_cash_flow": 17802000000.0,
+     "reinvestment_rate": 0.6099132264002104,
+     "capex_to_revenue": 0.14821717645054103
+    },
+    {
+     "period": "2025Q1",
+     "start": "2025-01-01",
+     "end": "2025-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/"
+      }
+     },
+     "revenue": 155667000000.0,
+     "operating_cash_flow": 17015000000.0,
+     "capex": 25019000000.0,
+     "finance_lease_principal": 410000000.0,
+     "free_cash_flow": -8004000000.0,
+     "reinvestment_rate": 1.4704084631207759,
+     "capex_to_revenue": 0.16072128325207014
+    },
+    {
+     "period": "2025Q2",
+     "start": "2025-04-01",
+     "end": "2025-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-07-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-07-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-07-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-07-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/"
+      }
+     },
+     "revenue": 167702000000.0,
+     "operating_cash_flow": 32515000000.0,
+     "capex": 32183000000.0,
+     "finance_lease_principal": 411000000.0,
+     "free_cash_flow": 332000000.0,
+     "reinvestment_rate": 0.9897893280024604,
+     "capex_to_revenue": 0.1919058806692824
+    },
+    {
+     "period": "2025Q3",
+     "start": "2025-07-01",
+     "end": "2025-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/"
+      }
+     },
+     "revenue": 180169000000.0,
+     "operating_cash_flow": 35525000000.0,
+     "capex": 35095000000.0,
+     "finance_lease_principal": 351000000.0,
+     "free_cash_flow": 430000000.0,
+     "reinvestment_rate": 0.9878958479943701,
+     "capex_to_revenue": 0.1947893366783409
+    },
+    {
+     "period": "2025Q4",
+     "start": "2025-10-01",
+     "end": "2025-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-06",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-06",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-06",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-06",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
+      }
+     },
+     "revenue": 213386000000.0,
+     "operating_cash_flow": 54459000000.0,
+     "capex": 39522000000.0,
+     "finance_lease_principal": 385000000.0,
+     "free_cash_flow": 14937000000.0,
+     "reinvestment_rate": 0.7257202666225968,
+     "capex_to_revenue": 0.18521365038006243
+    },
+    {
+     "period": "2026Q1",
+     "start": "2026-01-01",
+     "end": "2026-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/"
+      }
+     },
+     "revenue": 181519000000.0,
+     "operating_cash_flow": 26032000000.0,
+     "capex": 44203000000.0,
+     "finance_lease_principal": 468000000.0,
+     "free_cash_flow": -18171000000.0,
+     "reinvestment_rate": 1.6980255070682237,
+     "capex_to_revenue": 0.2435172075650483
+    },
+    {
+     "period": "2026Q2",
+     "start": "2026-04-01",
+     "end": "2026-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-07-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-07-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-07-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-07-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/"
+      }
+     },
+     "revenue": 200606000000.0,
+     "operating_cash_flow": 45387000000.0,
+     "capex": 54208000000.0,
+     "finance_lease_principal": 395000000.0,
+     "free_cash_flow": -8821000000.0,
+     "reinvestment_rate": 1.194350805296671,
+     "capex_to_revenue": 0.2702212296740875
+    },
+    {
+     "period": "2026Q3",
+     "start": "2026-07-01",
+     "end": "2026-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/"
+      }
+     },
+     "revenue": 201944000000.0,
+     "operating_cash_flow": 42422000000.0,
+     "capex": 77259000000.0,
+     "finance_lease_principal": 433000000.0,
+     "free_cash_flow": -34837000000.0,
+     "reinvestment_rate": 1.8212012634953563,
+     "capex_to_revenue": 0.382576357802163
+    }
+   ]
+  },
+  "META": {
+   "name": "Meta",
+   "cik": "0001326801",
+   "role": "spender",
+   "fiscal_year_end": "December",
+   "tags_used": {
+    "revenue": [
+     "RevenueFromContractWithCustomerExcludingAssessedTax",
+     "Revenues"
+    ],
+    "operating_cash_flow": [
+     "NetCashProvidedByUsedInOperatingActivities"
+    ],
+    "capex": [
+     "PaymentsToAcquirePropertyPlantAndEquipment"
+    ],
+    "finance_lease_principal": [
+     "FinanceLeasePrincipalPayments",
+     "RepaymentsOfLongTermCapitalLeaseObligations"
+    ]
+   },
+   "quarters": [
+    {
+     "period": "2019Q4",
+     "start": "2019-10-01",
+     "end": "2019-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2022-02-03",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000018/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2022-02-03",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000018/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2022-02-03",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000018/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2022-02-03",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000018/"
+      }
+     },
+     "revenue": 21082000000.0,
+     "operating_cash_flow": 9083000000.0,
+     "capex": 4100000000.0,
+     "finance_lease_principal": 141000000.0,
+     "free_cash_flow": 4983000000.0,
+     "reinvestment_rate": 0.45139271165914346,
+     "capex_to_revenue": 0.19447870221041647
+    },
+    {
+     "period": "2020Q1",
+     "start": "2020-01-01",
+     "end": "2020-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-04-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000033/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-04-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000033/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-04-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000033/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-04-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000033/"
+      }
+     },
+     "revenue": 17737000000.0,
+     "operating_cash_flow": 11001000000.0,
+     "capex": 3558000000.0,
+     "finance_lease_principal": 100000000.0,
+     "free_cash_flow": 7443000000.0,
+     "reinvestment_rate": 0.32342514316880283,
+     "capex_to_revenue": 0.20059762079269325
+    },
+    {
+     "period": "2020Q2",
+     "start": "2020-04-01",
+     "end": "2020-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000049/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000049/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000049/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-07-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000049/"
+      }
+     },
+     "revenue": 18687000000.0,
+     "operating_cash_flow": 3877000000.0,
+     "capex": 3255000000.0,
+     "finance_lease_principal": 109000000.0,
+     "free_cash_flow": 622000000.0,
+     "reinvestment_rate": 0.8395666752643797,
+     "capex_to_revenue": 0.17418526248193933
+    },
+    {
+     "period": "2020Q3",
+     "start": "2020-07-01",
+     "end": "2020-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-10-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000065/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-10-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000065/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-10-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000065/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-10-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000065/"
+      }
+     },
+     "revenue": 21470000000.0,
+     "operating_cash_flow": 9829000000.0,
+     "capex": 3689000000.0,
+     "finance_lease_principal": 189000000.0,
+     "free_cash_flow": 6140000000.0,
+     "reinvestment_rate": 0.37531793671787567,
+     "capex_to_revenue": 0.17182114578481603
+    },
+    {
+     "period": "2020Q4",
+     "start": "2020-10-01",
+     "end": "2020-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-02-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000013/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-02-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000013/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-02-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000013/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-02-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000013/"
+      }
+     },
+     "revenue": 28072000000.0,
+     "operating_cash_flow": 14040000000.0,
+     "capex": 4661000000.0,
+     "finance_lease_principal": 206000000.0,
+     "free_cash_flow": 9379000000.0,
+     "reinvestment_rate": 0.331980056980057,
+     "capex_to_revenue": 0.16603733257338274
+    },
+    {
+     "period": "2021Q1",
+     "start": "2021-01-01",
+     "end": "2021-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-04-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000057/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-04-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000057/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-04-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000057/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-04-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000057/"
+      }
+     },
+     "revenue": 26171000000.0,
+     "operating_cash_flow": 12242000000.0,
+     "capex": 4303000000.0,
+     "finance_lease_principal": 151000000.0,
+     "free_cash_flow": 7939000000.0,
+     "reinvestment_rate": 0.35149485378206174,
+     "capex_to_revenue": 0.16441863130946469
+    },
+    {
+     "period": "2021Q2",
+     "start": "2021-04-01",
+     "end": "2021-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-07-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000082/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2022-07-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000082/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2022-07-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000082/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2022-07-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000082/"
+      }
+     },
+     "revenue": 29077000000.0,
+     "operating_cash_flow": 13247000000.0,
+     "capex": 4641000000.0,
+     "finance_lease_principal": 123000000.0,
+     "free_cash_flow": 8606000000.0,
+     "reinvestment_rate": 0.35034347399411186,
+     "capex_to_revenue": 0.15961068886061147
+    },
+    {
+     "period": "2021Q3",
+     "start": "2021-07-01",
+     "end": "2021-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-10-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000108/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2022-10-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000108/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2022-10-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000108/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2022-10-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000108/"
+      }
+     },
+     "revenue": 29010000000.0,
+     "operating_cash_flow": 14090000000.0,
+     "capex": 4346000000.0,
+     "finance_lease_principal": 231000000.0,
+     "free_cash_flow": 9744000000.0,
+     "reinvestment_rate": 0.3084457061745919,
+     "capex_to_revenue": 0.14981041020337815
+    },
+    {
+     "period": "2021Q4",
+     "start": "2021-10-01",
+     "end": "2021-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-02-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000012/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-02-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000012/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-02-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000012/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-02-02",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000012/"
+      }
+     },
+     "revenue": 33671000000.0,
+     "operating_cash_flow": 18104000000.0,
+     "capex": 5400000000.0,
+     "finance_lease_principal": 172000000.0,
+     "free_cash_flow": 12704000000.0,
+     "reinvestment_rate": 0.2982766239505082,
+     "capex_to_revenue": 0.16037539722609961
+    },
+    {
+     "period": "2022Q1",
+     "start": "2022-01-01",
+     "end": "2022-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-04-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000067/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-04-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000067/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-04-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000067/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-04-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000067/"
+      }
+     },
+     "revenue": 27908000000.0,
+     "operating_cash_flow": 14076000000.0,
+     "capex": 5441000000.0,
+     "finance_lease_principal": 233000000.0,
+     "free_cash_flow": 8635000000.0,
+     "reinvestment_rate": 0.3865444728616084,
+     "capex_to_revenue": 0.19496201805933783
+    },
+    {
+     "period": "2022Q2",
+     "start": "2022-04-01",
+     "end": "2022-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-07-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000093/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2023-07-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000093/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2023-07-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000093/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2023-07-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000093/"
+      }
+     },
+     "revenue": 28822000000.0,
+     "operating_cash_flow": 12196000000.0,
+     "capex": 7572000000.0,
+     "finance_lease_principal": 219000000.0,
+     "free_cash_flow": 4624000000.0,
+     "reinvestment_rate": 0.6208592981305346,
+     "capex_to_revenue": 0.2627159808479634
+    },
+    {
+     "period": "2022Q3",
+     "start": "2022-07-01",
+     "end": "2022-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-10-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000103/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2023-10-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000103/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2023-10-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000103/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2023-10-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000103/"
+      }
+     },
+     "revenue": 27714000000.0,
+     "operating_cash_flow": 9692000000.0,
+     "capex": 9375000000.0,
+     "finance_lease_principal": 163000000.0,
+     "free_cash_flow": 317000000.0,
+     "reinvestment_rate": 0.9672926124638878,
+     "capex_to_revenue": 0.33827668326477595
+    },
+    {
+     "period": "2022Q4",
+     "start": "2022-10-01",
+     "end": "2022-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-01-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-01-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-01-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-01-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/"
+      }
+     },
+     "revenue": 32165000000.0,
+     "operating_cash_flow": 14511000000.0,
+     "capex": 8798000000.0,
+     "finance_lease_principal": 235000000.0,
+     "free_cash_flow": 5713000000.0,
+     "reinvestment_rate": 0.6062986699745021,
+     "capex_to_revenue": 0.2735271257578113
+    },
+    {
+     "period": "2023Q1",
+     "start": "2023-01-01",
+     "end": "2023-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000049/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000049/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000049/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-04-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000049/"
+      }
+     },
+     "revenue": 28645000000.0,
+     "operating_cash_flow": 13998000000.0,
+     "capex": 6823000000.0,
+     "finance_lease_principal": 264000000.0,
+     "free_cash_flow": 7175000000.0,
+     "reinvestment_rate": 0.48742677525360767,
+     "capex_to_revenue": 0.2381916564845523
+    },
+    {
+     "period": "2023Q2",
+     "start": "2023-04-01",
+     "end": "2023-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-08-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000069/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-08-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000069/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-08-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000069/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-08-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000069/"
+      }
+     },
+     "revenue": 31999000000.0,
+     "operating_cash_flow": 17309000000.0,
+     "capex": 6134000000.0,
+     "finance_lease_principal": 220000000.0,
+     "free_cash_flow": 11175000000.0,
+     "reinvestment_rate": 0.35438211335143566,
+     "capex_to_revenue": 0.19169349042157569
+    },
+    {
+     "period": "2023Q3",
+     "start": "2023-07-01",
+     "end": "2023-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-10-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000081/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-10-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000081/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-10-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000081/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-10-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000081/"
+      }
+     },
+     "revenue": 34146000000.0,
+     "operating_cash_flow": 20402000000.0,
+     "capex": 6496000000.0,
+     "finance_lease_principal": 267000000.0,
+     "free_cash_flow": 13906000000.0,
+     "reinvestment_rate": 0.3184001568473679,
+     "capex_to_revenue": 0.1902419024190242
+    },
+    {
+     "period": "2023Q4",
+     "start": "2023-10-01",
+     "end": "2023-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-01-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-01-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-01-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-01-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
+      }
+     },
+     "revenue": 40111000000.0,
+     "operating_cash_flow": 19404000000.0,
+     "capex": 7592000000.0,
+     "finance_lease_principal": 307000000.0,
+     "free_cash_flow": 11812000000.0,
+     "reinvestment_rate": 0.39125953411667697,
+     "capex_to_revenue": 0.18927476253396824
+    },
+    {
+     "period": "2024Q1",
+     "start": "2024-01-01",
+     "end": "2024-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-05-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-05-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-05-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-05-01",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/"
+      }
+     },
+     "revenue": 36455000000.0,
+     "operating_cash_flow": 19246000000.0,
+     "capex": 6400000000.0,
+     "finance_lease_principal": 315000000.0,
+     "free_cash_flow": 12846000000.0,
+     "reinvestment_rate": 0.3325366309882573,
+     "capex_to_revenue": 0.17555890824303935
+    },
+    {
+     "period": "2024Q2",
+     "start": "2024-04-01",
+     "end": "2024-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-07-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-07-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-07-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-07-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/"
+      }
+     },
+     "revenue": 39071000000.0,
+     "operating_cash_flow": 19370000000.0,
+     "capex": 8173000000.0,
+     "finance_lease_principal": 299000000.0,
+     "free_cash_flow": 11197000000.0,
+     "reinvestment_rate": 0.42194114610221994,
+     "capex_to_revenue": 0.20918328171789818
+    },
+    {
+     "period": "2024Q3",
+     "start": "2024-07-01",
+     "end": "2024-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-10-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/"
+      }
+     },
+     "revenue": 40589000000.0,
+     "operating_cash_flow": 24724000000.0,
+     "capex": 8258000000.0,
+     "finance_lease_principal": 944000000.0,
+     "free_cash_flow": 16466000000.0,
+     "reinvestment_rate": 0.33400744216146255,
+     "capex_to_revenue": 0.2034541378205918
+    },
+    {
+     "period": "2024Q4",
+     "start": "2024-10-01",
+     "end": "2024-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-01-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-01-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-01-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-01-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
+      }
+     },
+     "revenue": 48385000000.0,
+     "operating_cash_flow": 27988000000.0,
+     "capex": 14425000000.0,
+     "finance_lease_principal": 411000000.0,
+     "free_cash_flow": 13563000000.0,
+     "reinvestment_rate": 0.5153994569101044,
+     "capex_to_revenue": 0.29812958561537667
+    },
+    {
+     "period": "2025Q1",
+     "start": "2025-01-01",
+     "end": "2025-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/"
+      }
+     },
+     "revenue": 42314000000.0,
+     "operating_cash_flow": 24026000000.0,
+     "capex": 12941000000.0,
+     "finance_lease_principal": 751000000.0,
+     "free_cash_flow": 11085000000.0,
+     "reinvestment_rate": 0.5386248231082993,
+     "capex_to_revenue": 0.3058325849600605
+    },
+    {
+     "period": "2025Q2",
+     "start": "2025-04-01",
+     "end": "2025-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/"
+      }
+     },
+     "revenue": 47516000000.0,
+     "operating_cash_flow": 25561000000.0,
+     "capex": 16538000000.0,
+     "finance_lease_principal": 474000000.0,
+     "free_cash_flow": 9023000000.0,
+     "reinvestment_rate": 0.6470012910293025,
+     "capex_to_revenue": 0.34805118275949154
+    },
+    {
+     "period": "2025Q3",
+     "start": "2025-07-01",
+     "end": "2025-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-10-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-10-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-10-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/"
+      }
+     },
+     "revenue": 51242000000.0,
+     "operating_cash_flow": 29999000000.0,
+     "capex": 18829000000.0,
+     "finance_lease_principal": 545000000.0,
+     "free_cash_flow": 11170000000.0,
+     "reinvestment_rate": 0.627654255141838,
+     "capex_to_revenue": 0.36745248038718237
+    },
+    {
+     "period": "2025Q4",
+     "start": "2025-10-01",
+     "end": "2025-12-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-01-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-01-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-01-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-01-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
+      }
+     },
+     "revenue": 59893000000.0,
+     "operating_cash_flow": 36214000000.0,
+     "capex": 21383000000.0,
+     "finance_lease_principal": 754000000.0,
+     "free_cash_flow": 14831000000.0,
+     "reinvestment_rate": 0.59046225216767,
+     "capex_to_revenue": 0.35702001903394387
+    },
+    {
+     "period": "2026Q1",
+     "start": "2026-01-01",
+     "end": "2026-03-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-04-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/"
+      }
+     },
+     "revenue": 56311000000.0,
+     "operating_cash_flow": 32226000000.0,
+     "capex": 18997000000.0,
+     "finance_lease_principal": 843000000.0,
+     "free_cash_flow": 13229000000.0,
+     "reinvestment_rate": 0.5894929559982622,
+     "capex_to_revenue": 0.33735859778728844
+    },
+    {
+     "period": "2026Q2",
+     "start": "2026-04-01",
+     "end": "2026-06-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-07-30",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/"
+      }
+     },
+     "revenue": 60801000000.0,
+     "operating_cash_flow": 31862000000.0,
+     "capex": 30116000000.0,
+     "finance_lease_principal": 962000000.0,
+     "free_cash_flow": 1746000000.0,
+     "reinvestment_rate": 0.9452011800891343,
+     "capex_to_revenue": 0.4953208006447262
+    },
+    {
+     "period": "2026Q3",
+     "start": "2026-07-01",
+     "end": "2026-09-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-10-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-10-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-10-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-10-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/"
+      }
+     },
+     "revenue": 64601000000.0,
+     "operating_cash_flow": 32785000000.0,
+     "capex": 33942000000.0,
+     "finance_lease_principal": 964000000.0,
+     "free_cash_flow": -1157000000.0,
+     "reinvestment_rate": 1.0352905292054293,
+     "capex_to_revenue": 0.5254098233773471
+    }
+   ]
+  },
+  "ORCL": {
+   "name": "Oracle",
+   "cik": "0001341439",
+   "role": "spender",
+   "fiscal_year_end": "May",
+   "tags_used": {
+    "revenue": [
+     "RevenueFromContractWithCustomerExcludingAssessedTax",
+     "Revenues",
+     "SalesRevenueNet"
+    ],
+    "operating_cash_flow": [
+     "NetCashProvidedByUsedInOperatingActivities"
+    ],
+    "capex": [
+     "PaymentsToAcquirePropertyPlantAndEquipment"
+    ],
+    "finance_lease_principal": [
+     "FinanceLeasePrincipalPayments"
+    ]
+   },
+   "quarters": [
+    {
+     "period": "2019Q4",
+     "start": "2019-09-01",
+     "end": "2019-11-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2020-12-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2020-12-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2020-12-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/"
+      }
+     },
+     "revenue": 9614000000.0,
+     "operating_cash_flow": 513000000.0,
+     "capex": 349000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 164000000.0,
+     "reinvestment_rate": 0.6803118908382066,
+     "capex_to_revenue": 0.036301227376742254
+    },
+    {
+     "period": "2020Q1",
+     "start": "2019-12-01",
+     "end": "2020-02-29",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/"
+      }
+     },
+     "revenue": 9796000000.0,
+     "operating_cash_flow": 3012000000.0,
+     "capex": 396000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 2616000000.0,
+     "reinvestment_rate": 0.13147410358565736,
+     "capex_to_revenue": 0.04042466312780727
+    },
+    {
+     "period": "2020Q2",
+     "start": "2020-03-01",
+     "end": "2020-05-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2022-06-21",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2022-06-21",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2022-06-21",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/"
+      }
+     },
+     "revenue": 10439000000.0,
+     "operating_cash_flow": 3614000000.0,
+     "capex": 433000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 3181000000.0,
+     "reinvestment_rate": 0.11981184283342557,
+     "capex_to_revenue": 0.04147906887632915
+    },
+    {
+     "period": "2020Q3",
+     "start": "2020-06-01",
+     "end": "2020-08-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-09-13",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-09-13",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-09-13",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/"
+      }
+     },
+     "revenue": 9367000000.0,
+     "operating_cash_flow": 5953000000.0,
+     "capex": 436000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 5517000000.0,
+     "reinvestment_rate": 0.07324038300016798,
+     "capex_to_revenue": 0.046546386249599656
+    },
+    {
+     "period": "2020Q4",
+     "start": "2020-09-01",
+     "end": "2020-11-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-12-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-12-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-12-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/"
+      }
+     },
+     "revenue": 9800000000.0,
+     "operating_cash_flow": 1388000000.0,
+     "capex": 568000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 820000000.0,
+     "reinvestment_rate": 0.4092219020172911,
+     "capex_to_revenue": 0.05795918367346939
+    },
+    {
+     "period": "2021Q1",
+     "start": "2020-12-01",
+     "end": "2021-02-28",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2022-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2022-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/"
+      }
+     },
+     "revenue": 10085000000.0,
+     "operating_cash_flow": 3704000000.0,
+     "capex": 414000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 3290000000.0,
+     "reinvestment_rate": 0.11177105831533478,
+     "capex_to_revenue": 0.04105106593951413
+    },
+    {
+     "period": "2021Q2",
+     "start": "2021-03-01",
+     "end": "2021-05-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-06-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-06-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2023-06-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/"
+      }
+     },
+     "revenue": 11227000000.0,
+     "operating_cash_flow": 4842000000.0,
+     "capex": 717000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 4125000000.0,
+     "reinvestment_rate": 0.14807930607187111,
+     "capex_to_revenue": 0.06386389952792376
+    },
+    {
+     "period": "2021Q3",
+     "start": "2021-06-01",
+     "end": "2021-08-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-09-13",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-09-13",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-09-13",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/"
+      }
+     },
+     "revenue": 9728000000.0,
+     "operating_cash_flow": 5391000000.0,
+     "capex": 1062000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 4329000000.0,
+     "reinvestment_rate": 0.19699499165275458,
+     "capex_to_revenue": 0.10916940789473684
+    },
+    {
+     "period": "2021Q4",
+     "start": "2021-09-01",
+     "end": "2021-11-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-12-13",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2022-12-13",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2022-12-13",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/"
+      }
+     },
+     "revenue": 10360000000.0,
+     "operating_cash_flow": -3682000000.0,
+     "capex": 925000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": -4607000000.0,
+     "reinvestment_rate": -0.2512221618685497,
+     "capex_to_revenue": 0.08928571428571429
+    },
+    {
+     "period": "2022Q1",
+     "start": "2021-12-01",
+     "end": "2022-02-28",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-03-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2023-03-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2023-03-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/"
+      }
+     },
+     "revenue": 10513000000.0,
+     "operating_cash_flow": 3845000000.0,
+     "capex": 1101000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 2744000000.0,
+     "reinvestment_rate": 0.28634590377113134,
+     "capex_to_revenue": 0.1047274802625321
+    },
+    {
+     "period": "2022Q2",
+     "start": "2022-03-01",
+     "end": "2022-05-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-06-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-06-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-06-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/"
+      }
+     },
+     "revenue": 11840000000.0,
+     "operating_cash_flow": 3985000000.0,
+     "capex": 1423000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 2562000000.0,
+     "reinvestment_rate": 0.35708908406524464,
+     "capex_to_revenue": 0.12018581081081081
+    },
+    {
+     "period": "2022Q3",
+     "start": "2022-06-01",
+     "end": "2022-08-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-09-12",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-09-12",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-09-12",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/"
+      }
+     },
+     "revenue": 11445000000.0,
+     "operating_cash_flow": 6394000000.0,
+     "capex": 1719000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 4675000000.0,
+     "reinvestment_rate": 0.2688457929308727,
+     "capex_to_revenue": 0.15019659239842725
+    },
+    {
+     "period": "2022Q4",
+     "start": "2022-09-01",
+     "end": "2022-11-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2023-12-12",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2023-12-12",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2023-12-12",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/"
+      }
+     },
+     "revenue": 12275000000.0,
+     "operating_cash_flow": 849000000.0,
+     "capex": 2435000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": -1586000000.0,
+     "reinvestment_rate": 2.868080094228504,
+     "capex_to_revenue": 0.1983706720977597
+    },
+    {
+     "period": "2023Q1",
+     "start": "2022-12-01",
+     "end": "2023-02-28",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-03-12",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-03-12",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-03-12",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/"
+      }
+     },
+     "revenue": 12398000000.0,
+     "operating_cash_flow": 4275000000.0,
+     "capex": 2628000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 1647000000.0,
+     "reinvestment_rate": 0.6147368421052631,
+     "capex_to_revenue": 0.21196967252782706
+    },
+    {
+     "period": "2023Q2",
+     "start": "2023-03-01",
+     "end": "2023-05-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-06-18",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-06-18",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-06-18",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/"
+      }
+     },
+     "revenue": 13836000000.0,
+     "operating_cash_flow": 5647000000.0,
+     "capex": 1913000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 3734000000.0,
+     "reinvestment_rate": 0.33876394545776517,
+     "capex_to_revenue": 0.1382625036137612
+    },
+    {
+     "period": "2023Q3",
+     "start": "2023-06-01",
+     "end": "2023-08-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-09-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-09-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-09-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/"
+      }
+     },
+     "revenue": 12453000000.0,
+     "operating_cash_flow": 6974000000.0,
+     "capex": 1314000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 5660000000.0,
+     "reinvestment_rate": 0.18841410954975624,
+     "capex_to_revenue": 0.10551674295350517
+    },
+    {
+     "period": "2023Q4",
+     "start": "2023-09-01",
+     "end": "2023-11-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-12-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-12-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-12-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/"
+      }
+     },
+     "revenue": 12941000000.0,
+     "operating_cash_flow": 143000000.0,
+     "capex": 1080000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": -937000000.0,
+     "reinvestment_rate": 7.5524475524475525,
+     "capex_to_revenue": 0.083455683486593
+    },
+    {
+     "period": "2024Q1",
+     "start": "2023-12-01",
+     "end": "2024-02-29",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/"
+      }
+     },
+     "revenue": 13280000000.0,
+     "operating_cash_flow": 5475000000.0,
+     "capex": 1674000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 3801000000.0,
+     "reinvestment_rate": 0.30575342465753425,
+     "capex_to_revenue": 0.12605421686746987
+    },
+    {
+     "period": "2024Q2",
+     "start": "2024-03-01",
+     "end": "2024-05-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-06-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-06-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-06-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
+      }
+     },
+     "revenue": 14287000000.0,
+     "operating_cash_flow": 6081000000.0,
+     "capex": 2798000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 3283000000.0,
+     "reinvestment_rate": 0.46012169051142904,
+     "capex_to_revenue": 0.19584237418632322
+    },
+    {
+     "period": "2024Q3",
+     "start": "2024-06-01",
+     "end": "2024-08-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-09-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-09-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-09-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-09-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/"
+      }
+     },
+     "revenue": 13307000000.0,
+     "operating_cash_flow": 7427000000.0,
+     "capex": 2303000000.0,
+     "finance_lease_principal": 0.0,
+     "free_cash_flow": 5124000000.0,
+     "reinvestment_rate": 0.3100848256361923,
+     "capex_to_revenue": 0.17306680694371385
+    },
+    {
+     "period": "2024Q4",
+     "start": "2024-09-01",
+     "end": "2024-11-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-12-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-12-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-12-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-12-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/"
+      }
+     },
+     "revenue": 14059000000.0,
+     "operating_cash_flow": 1304000000.0,
+     "capex": 3970000000.0,
+     "finance_lease_principal": 0.0,
+     "free_cash_flow": -2666000000.0,
+     "reinvestment_rate": 3.044478527607362,
+     "capex_to_revenue": 0.28238139270218365
+    },
+    {
+     "period": "2025Q1",
+     "start": "2024-12-01",
+     "end": "2025-02-28",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/"
+      }
+     },
+     "revenue": 14130000000.0,
+     "operating_cash_flow": 5933000000.0,
+     "capex": 5862000000.0,
+     "finance_lease_principal": 8000000.0,
+     "free_cash_flow": 71000000.0,
+     "reinvestment_rate": 0.9880330355637957,
+     "capex_to_revenue": 0.4148619957537155
+    },
+    {
+     "period": "2025Q2",
+     "start": "2025-03-01",
+     "end": "2025-05-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-06-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-06-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-06-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-06-18",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/"
+      }
+     },
+     "revenue": 15903000000.0,
+     "operating_cash_flow": 6157000000.0,
+     "capex": 9080000000.0,
+     "finance_lease_principal": 19000000.0,
+     "free_cash_flow": -2923000000.0,
+     "reinvestment_rate": 1.4747441936007797,
+     "capex_to_revenue": 0.5709614538137459
+    },
+    {
+     "period": "2025Q3",
+     "start": "2025-06-01",
+     "end": "2025-08-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-09-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-09-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-09-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/"
+      },
+      "finance_lease_principal": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-09-10",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/"
+      }
+     },
+     "revenue": 14926000000.0,
+     "operating_cash_flow": 8140000000.0,
+     "capex": 8502000000.0,
+     "finance_lease_principal": 86000000.0,
+     "free_cash_flow": -362000000.0,
+     "reinvestment_rate": 1.0444717444717444,
+     "capex_to_revenue": 0.5696100763767922
+    },
+    {
+     "period": "2025Q4",
+     "start": "2025-09-01",
+     "end": "2025-11-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-12-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-12-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-12-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-12-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/"
+      }
+     },
+     "revenue": 16058000000.0,
+     "operating_cash_flow": 2066000000.0,
+     "capex": 12033000000.0,
+     "finance_lease_principal": 113000000.0,
+     "free_cash_flow": -9967000000.0,
+     "reinvestment_rate": 5.8242981606969995,
+     "capex_to_revenue": 0.7493461203138623
+    },
+    {
+     "period": "2026Q1",
+     "start": "2025-12-01",
+     "end": "2026-02-28",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/"
+      },
+      "finance_lease_principal": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-03-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/"
+      }
+     },
+     "revenue": 17190000000.0,
+     "operating_cash_flow": 7151000000.0,
+     "capex": 18635000000.0,
+     "finance_lease_principal": 87000000.0,
+     "free_cash_flow": -11484000000.0,
+     "reinvestment_rate": 2.6059292406656414,
+     "capex_to_revenue": 1.0840605002908668
+    },
+    {
+     "period": "2026Q2",
+     "start": "2026-03-01",
+     "end": "2026-05-31",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-06-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-06-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-06-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
+      }
+     },
+     "revenue": 19184000000.0,
+     "operating_cash_flow": 14620000000.0,
+     "capex": 16493000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": -1873000000.0,
+     "reinvestment_rate": 1.128112175102599,
+     "capex_to_revenue": 0.8597268557130943
+    },
+    {
+     "period": "2026Q3",
+     "start": "2026-06-01",
+     "end": "2026-08-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-09-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-09-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-09-11",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/"
+      }
+     },
+     "revenue": 19345000000.0,
+     "operating_cash_flow": 23103000000.0,
+     "capex": 28499000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": -5396000000.0,
+     "reinvestment_rate": 1.233562740769597,
+     "capex_to_revenue": 1.4731972085810288
+    }
+   ]
+  },
+  "NVDA": {
+   "name": "Nvidia",
+   "cik": "0001045810",
+   "role": "seller",
+   "fiscal_year_end": "late January",
+   "tags_used": {
+    "revenue": [
+     "RevenueFromContractWithCustomerExcludingAssessedTax",
+     "Revenues"
+    ],
+    "operating_cash_flow": [
+     "NetCashProvidedByUsedInOperatingActivities"
+    ],
+    "capex": [
+     "PaymentsToAcquirePropertyPlantAndEquipment",
+     "PaymentsToAcquireProductiveAssets"
+    ],
+    "finance_lease_principal": [
+     "RepaymentsOfLongTermCapitalLeaseObligations"
+    ]
+   },
+   "quarters": [
+    {
+     "period": "2019Q3",
+     "start": "2019-07-29",
+     "end": "2019-10-27",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-K",
+       "filed": "2020-02-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581020000010/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2020-11-18",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581020000189/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2019-11-14",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581019000170/"
+      }
+     },
+     "revenue": 3014000000.0,
+     "operating_cash_flow": 1640000000.0,
+     "capex": 103000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 1537000000.0,
+     "reinvestment_rate": 0.06280487804878049,
+     "capex_to_revenue": 0.03417385534173855
+    },
+    {
+     "period": "2020Q1",
+     "start": "2020-01-27",
+     "end": "2020-04-26",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-05-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000064/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-05-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000064/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2020-05-21",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581020000065/"
+      }
+     },
+     "revenue": 3080000000.0,
+     "operating_cash_flow": 909000000.0,
+     "capex": 155000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 754000000.0,
+     "reinvestment_rate": 0.1705170517051705,
+     "capex_to_revenue": 0.05032467532467533
+    },
+    {
+     "period": "2020Q2",
+     "start": "2020-04-27",
+     "end": "2020-07-26",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-08-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000131/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-08-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000131/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2020-08-19",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581020000147/"
+      }
+     },
+     "revenue": 3866000000.0,
+     "operating_cash_flow": 1567000000.0,
+     "capex": 217000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 1350000000.0,
+     "reinvestment_rate": 0.13848117421825143,
+     "capex_to_revenue": 0.05613036730470771
+    },
+    {
+     "period": "2020Q3",
+     "start": "2020-07-27",
+     "end": "2020-10-25",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-11-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000163/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-11-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000163/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-11-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000163/"
+      }
+     },
+     "revenue": 4726000000.0,
+     "operating_cash_flow": 1279000000.0,
+     "capex": 473000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 806000000.0,
+     "reinvestment_rate": 0.36982017200938233,
+     "capex_to_revenue": 0.10008463817181548
+    },
+    {
+     "period": "2021Q1",
+     "start": "2021-02-01",
+     "end": "2021-05-02",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-05-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000079/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-05-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000079/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2021-05-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000064/"
+      }
+     },
+     "revenue": 5661000000.0,
+     "operating_cash_flow": 1874000000.0,
+     "capex": 298000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 1576000000.0,
+     "reinvestment_rate": 0.15901814300960512,
+     "capex_to_revenue": 0.05264087617028793
+    },
+    {
+     "period": "2021Q2",
+     "start": "2021-05-03",
+     "end": "2021-08-01",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-08-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000147/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2022-08-31",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000147/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-08-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000131/"
+      }
+     },
+     "revenue": 6507000000.0,
+     "operating_cash_flow": 2682000000.0,
+     "capex": 183000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 2499000000.0,
+     "reinvestment_rate": 0.06823266219239374,
+     "capex_to_revenue": 0.028123559243891195
+    },
+    {
+     "period": "2021Q3",
+     "start": "2021-08-02",
+     "end": "2021-10-31",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2022-11-18",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000166/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2022-11-18",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000166/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2021-11-22",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000163/"
+      }
+     },
+     "revenue": 7103000000.0,
+     "operating_cash_flow": 1519000000.0,
+     "capex": 222000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 1297000000.0,
+     "reinvestment_rate": 0.14614878209348256,
+     "capex_to_revenue": 0.03125439954948613
+    },
+    {
+     "period": "2021Q4",
+     "start": "2021-11-01",
+     "end": "2022-01-30",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-02-21",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000029/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-02-21",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000029/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2024-02-21",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000029/"
+      }
+     },
+     "revenue": 7643000000.0,
+     "operating_cash_flow": 3033000000.0,
+     "capex": 273000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 2760000000.0,
+     "reinvestment_rate": 0.09000989119683482,
+     "capex_to_revenue": 0.035718958524139734
+    },
+    {
+     "period": "2022Q4",
+     "start": "2022-10-31",
+     "end": "2023-01-29",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-02-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-02-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2025-02-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/"
+      }
+     },
+     "revenue": 6051000000.0,
+     "operating_cash_flow": 2248000000.0,
+     "capex": 509000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 1739000000.0,
+     "reinvestment_rate": 0.226423487544484,
+     "capex_to_revenue": 0.08411832754916543
+    },
+    {
+     "period": "2023Q1",
+     "start": "2023-01-30",
+     "end": "2023-04-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-05-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000124/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-05-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000124/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-05-29",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000124/"
+      }
+     },
+     "revenue": 7192000000.0,
+     "operating_cash_flow": 2911000000.0,
+     "capex": 248000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 2663000000.0,
+     "reinvestment_rate": 0.08519409137753349,
+     "capex_to_revenue": 0.034482758620689655
+    },
+    {
+     "period": "2023Q2",
+     "start": "2023-05-01",
+     "end": "2023-07-30",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-08-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000264/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-08-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000264/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-08-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000264/"
+      }
+     },
+     "revenue": 13507000000.0,
+     "operating_cash_flow": 6348000000.0,
+     "capex": 289000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 6059000000.0,
+     "reinvestment_rate": 0.045526149968494016,
+     "capex_to_revenue": 0.021396313022877027
+    },
+    {
+     "period": "2023Q3",
+     "start": "2023-07-31",
+     "end": "2023-10-29",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2024-11-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-11-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2024-11-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/"
+      }
+     },
+     "revenue": 18120000000.0,
+     "operating_cash_flow": 7332000000.0,
+     "capex": 278000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 7054000000.0,
+     "reinvestment_rate": 0.03791598472449536,
+     "capex_to_revenue": 0.01534216335540839
+    },
+    {
+     "period": "2023Q4",
+     "start": "2023-10-30",
+     "end": "2024-01-28",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
+      }
+     },
+     "revenue": 22103000000.0,
+     "operating_cash_flow": 11499000000.0,
+     "capex": 254000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 11245000000.0,
+     "reinvestment_rate": 0.02208887729367771,
+     "capex_to_revenue": 0.01149165271682577
+    },
+    {
+     "period": "2024Q1",
+     "start": "2024-01-29",
+     "end": "2024-04-28",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-05-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-05-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-05-28",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/"
+      }
+     },
+     "revenue": 26044000000.0,
+     "operating_cash_flow": 15345000000.0,
+     "capex": 369000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 14976000000.0,
+     "reinvestment_rate": 0.02404692082111437,
+     "capex_to_revenue": 0.014168330517585623
+    },
+    {
+     "period": "2024Q2",
+     "start": "2024-04-29",
+     "end": "2024-07-28",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-08-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-08-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-08-27",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/"
+      }
+     },
+     "revenue": 30040000000.0,
+     "operating_cash_flow": 14488000000.0,
+     "capex": 977000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 13511000000.0,
+     "reinvestment_rate": 0.06743511871893981,
+     "capex_to_revenue": 0.03252330226364847
+    },
+    {
+     "period": "2024Q3",
+     "start": "2024-07-29",
+     "end": "2024-10-27",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-11-19",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-11-19",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-11-19",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/"
+      }
+     },
+     "revenue": 35082000000.0,
+     "operating_cash_flow": 17627000000.0,
+     "capex": 813000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 16814000000.0,
+     "reinvestment_rate": 0.04612242582401997,
+     "capex_to_revenue": 0.023174277407217378
+    },
+    {
+     "period": "2024Q4",
+     "start": "2024-10-28",
+     "end": "2025-01-26",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
+      }
+     },
+     "revenue": 39331000000.0,
+     "operating_cash_flow": 16629000000.0,
+     "capex": 1077000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 15552000000.0,
+     "reinvestment_rate": 0.06476637200072163,
+     "capex_to_revenue": 0.02738298034629173
+    },
+    {
+     "period": "2025Q1",
+     "start": "2025-01-27",
+     "end": "2025-04-27",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-05-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-05-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-05-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/"
+      }
+     },
+     "revenue": 44062000000.0,
+     "operating_cash_flow": 27414000000.0,
+     "capex": 1227000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 26187000000.0,
+     "reinvestment_rate": 0.04475815276865835,
+     "capex_to_revenue": 0.02784712450637738
+    },
+    {
+     "period": "2025Q2",
+     "start": "2025-04-28",
+     "end": "2025-07-27",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-08-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-08-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-08-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/"
+      }
+     },
+     "revenue": 46743000000.0,
+     "operating_cash_flow": 15365000000.0,
+     "capex": 1895000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 13470000000.0,
+     "reinvestment_rate": 0.12333224861698666,
+     "capex_to_revenue": 0.04054082964294119
+    },
+    {
+     "period": "2025Q3",
+     "start": "2025-07-28",
+     "end": "2025-10-26",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2025-11-19",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-11-19",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2025-11-19",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/"
+      }
+     },
+     "revenue": 57006000000.0,
+     "operating_cash_flow": 23751000000.0,
+     "capex": 1636000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 22115000000.0,
+     "reinvestment_rate": 0.06888131026062061,
+     "capex_to_revenue": 0.028698733466652634
+    },
+    {
+     "period": "2025Q4",
+     "start": "2025-10-27",
+     "end": "2026-01-25",
+     "sources": {
+      "revenue": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-K",
+       "filed": "2026-02-25",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
+      }
+     },
+     "revenue": 68127000000.0,
+     "operating_cash_flow": 36188000000.0,
+     "capex": 1284000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 34904000000.0,
+     "reinvestment_rate": 0.03548137504145021,
+     "capex_to_revenue": 0.018847153111101324
+    },
+    {
+     "period": "2026Q1",
+     "start": "2026-01-26",
+     "end": "2026-04-26",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-05-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/"
+      },
+      "operating_cash_flow": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-05-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/"
+      },
+      "capex": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-05-20",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/"
+      }
+     },
+     "revenue": 81615000000.0,
+     "operating_cash_flow": 50344000000.0,
+     "capex": 1757000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 48587000000.0,
+     "reinvestment_rate": 0.03489988876529477,
+     "capex_to_revenue": 0.021527905409544815
+    },
+    {
+     "period": "2026Q2",
+     "start": "2026-04-27",
+     "end": "2026-07-26",
+     "sources": {
+      "revenue": {
+       "method": "direct",
+       "form": "10-Q",
+       "filed": "2026-08-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/"
+      },
+      "operating_cash_flow": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-08-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/"
+      },
+      "capex": {
+       "method": "derived",
+       "form": "10-Q",
+       "filed": "2026-08-26",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/"
+      }
+     },
+     "revenue": 96221000000.0,
+     "operating_cash_flow": 24077000000.0,
+     "capex": 2677000000.0,
+     "finance_lease_principal": null,
+     "free_cash_flow": 21400000000.0,
+     "reinvestment_rate": 0.11118494829090003,
+     "capex_to_revenue": 0.027821369555502438
+    }
+   ]
+  }
+ }
+}

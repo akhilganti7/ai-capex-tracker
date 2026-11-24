@@ -1,0 +1,1103 @@
+{
+ "generated_at": "2026-11-24T03:46:38+00:00",
+ "passed": 119,
+ "failed": 1,
+ "checks": [
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2020-06-30",
+   "ok": true,
+   "quarters_sum": 143015000000.0,
+   "annual": 143015000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2021-06-30",
+   "ok": true,
+   "quarters_sum": 168088000000.0,
+   "annual": 168088000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2022-06-30",
+   "ok": true,
+   "quarters_sum": 198270000000.0,
+   "annual": 198270000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2023-06-30",
+   "ok": true,
+   "quarters_sum": 211915000000.0,
+   "annual": 211915000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2024-06-30",
+   "ok": true,
+   "quarters_sum": 245122000000.0,
+   "annual": 245122000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2025-06-30",
+   "ok": true,
+   "quarters_sum": 281724000000.0,
+   "annual": 281724000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2026-06-30",
+   "ok": true,
+   "quarters_sum": 331839000000.0,
+   "annual": 331839000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2020-06-30",
+   "ok": true,
+   "quarters_sum": 60675000000.0,
+   "annual": 60675000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2021-06-30",
+   "ok": true,
+   "quarters_sum": 76740000000.0,
+   "annual": 76740000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2022-06-30",
+   "ok": true,
+   "quarters_sum": 89035000000.0,
+   "annual": 89035000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2023-06-30",
+   "ok": true,
+   "quarters_sum": 87582000000.0,
+   "annual": 87582000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2024-06-30",
+   "ok": true,
+   "quarters_sum": 118548000000.0,
+   "annual": 118548000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2025-06-30",
+   "ok": true,
+   "quarters_sum": 136162000000.0,
+   "annual": 136162000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2026-06-30",
+   "ok": true,
+   "quarters_sum": 182935000000.0,
+   "annual": 182935000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2020-06-30",
+   "ok": true,
+   "quarters_sum": 15441000000.0,
+   "annual": 15441000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2021-06-30",
+   "ok": true,
+   "quarters_sum": 20622000000.0,
+   "annual": 20622000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2022-06-30",
+   "ok": true,
+   "quarters_sum": 23886000000.0,
+   "annual": 23886000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2023-06-30",
+   "ok": true,
+   "quarters_sum": 28107000000.0,
+   "annual": 28107000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2024-06-30",
+   "ok": true,
+   "quarters_sum": 44477000000.0,
+   "annual": 44477000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2025-06-30",
+   "ok": true,
+   "quarters_sum": 64551000000.0,
+   "annual": 64551000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2026-06-30",
+   "ok": true,
+   "quarters_sum": 115948000000.0,
+   "annual": 115948000000.0
+  },
+  {
+   "ticker": "MSFT",
+   "check": "completeness",
+   "ok": true,
+   "quarters": 28,
+   "first": "2019Q4",
+   "last": "2026Q3",
+   "duplicate_periods": [],
+   "gaps": [],
+   "non_positive_capex": []
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2019-12-31",
+   "ok": true,
+   "quarters_sum": 161857000000.0,
+   "annual": 161857000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2020-12-31",
+   "ok": true,
+   "quarters_sum": 182527000000.0,
+   "annual": 182527000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2021-12-31",
+   "ok": true,
+   "quarters_sum": 257637000000.0,
+   "annual": 257637000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2022-12-31",
+   "ok": true,
+   "quarters_sum": 282836000000.0,
+   "annual": 282836000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2023-12-31",
+   "ok": true,
+   "quarters_sum": 307394000000.0,
+   "annual": 307394000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2024-12-31",
+   "ok": true,
+   "quarters_sum": 350018000000.0,
+   "annual": 350018000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2019-12-31",
+   "ok": true,
+   "quarters_sum": 54520000000.0,
+   "annual": 54520000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2020-12-31",
+   "ok": true,
+   "quarters_sum": 65124000000.0,
+   "annual": 65124000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2021-12-31",
+   "ok": true,
+   "quarters_sum": 91652000000.0,
+   "annual": 91652000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2022-12-31",
+   "ok": true,
+   "quarters_sum": 91495000000.0,
+   "annual": 91495000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2023-12-31",
+   "ok": true,
+   "quarters_sum": 101746000000.0,
+   "annual": 101746000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2024-12-31",
+   "ok": true,
+   "quarters_sum": 125299000000.0,
+   "annual": 125299000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2025-12-31",
+   "ok": true,
+   "quarters_sum": 164713000000.0,
+   "annual": 164713000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2019-12-31",
+   "ok": true,
+   "quarters_sum": 23548000000.0,
+   "annual": 23548000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2020-12-31",
+   "ok": true,
+   "quarters_sum": 22281000000.0,
+   "annual": 22281000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2021-12-31",
+   "ok": true,
+   "quarters_sum": 24640000000.0,
+   "annual": 24640000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2022-12-31",
+   "ok": true,
+   "quarters_sum": 31485000000.0,
+   "annual": 31485000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2023-12-31",
+   "ok": true,
+   "quarters_sum": 32251000000.0,
+   "annual": 32251000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2024-12-31",
+   "ok": true,
+   "quarters_sum": 52535000000.0,
+   "annual": 52535000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2025-12-31",
+   "ok": true,
+   "quarters_sum": 91447000000.0,
+   "annual": 91447000000.0
+  },
+  {
+   "ticker": "GOOGL",
+   "check": "completeness",
+   "ok": true,
+   "quarters": 28,
+   "first": "2019Q4",
+   "last": "2026Q3",
+   "duplicate_periods": [],
+   "gaps": [],
+   "non_positive_capex": []
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2019-12-31",
+   "ok": true,
+   "quarters_sum": 280522000000.0,
+   "annual": 280522000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2020-12-31",
+   "ok": true,
+   "quarters_sum": 386064000000.0,
+   "annual": 386064000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2021-12-31",
+   "ok": true,
+   "quarters_sum": 469822000000.0,
+   "annual": 469822000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2022-12-31",
+   "ok": true,
+   "quarters_sum": 513983000000.0,
+   "annual": 513983000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2023-12-31",
+   "ok": true,
+   "quarters_sum": 574785000000.0,
+   "annual": 574785000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2024-12-31",
+   "ok": true,
+   "quarters_sum": 637959000000.0,
+   "annual": 637959000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2025-12-31",
+   "ok": true,
+   "quarters_sum": 716924000000.0,
+   "annual": 716924000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2019-12-31",
+   "ok": true,
+   "quarters_sum": 38515000000.0,
+   "annual": 38514000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2020-12-31",
+   "ok": true,
+   "quarters_sum": 66065000000.0,
+   "annual": 66064000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2021-12-31",
+   "ok": true,
+   "quarters_sum": 46327000000.0,
+   "annual": 46327000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2022-12-31",
+   "ok": true,
+   "quarters_sum": 46752000000.0,
+   "annual": 46752000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2023-12-31",
+   "ok": true,
+   "quarters_sum": 84946000000.0,
+   "annual": 84946000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2024-12-31",
+   "ok": true,
+   "quarters_sum": 115877000000.0,
+   "annual": 115877000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2025-12-31",
+   "ok": true,
+   "quarters_sum": 139514000000.0,
+   "annual": 139514000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2019-12-31",
+   "ok": true,
+   "quarters_sum": 16861000000.0,
+   "annual": 16861000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2020-12-31",
+   "ok": true,
+   "quarters_sum": 40140000000.0,
+   "annual": 40140000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2021-12-31",
+   "ok": true,
+   "quarters_sum": 61053000000.0,
+   "annual": 61053000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2022-12-31",
+   "ok": true,
+   "quarters_sum": 63645000000.0,
+   "annual": 63645000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2023-12-31",
+   "ok": true,
+   "quarters_sum": 52729000000.0,
+   "annual": 52729000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2024-12-31",
+   "ok": true,
+   "quarters_sum": 82999000000.0,
+   "annual": 82999000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2025-12-31",
+   "ok": true,
+   "quarters_sum": 131819000000.0,
+   "annual": 131819000000.0
+  },
+  {
+   "ticker": "AMZN",
+   "check": "completeness",
+   "ok": true,
+   "quarters": 28,
+   "first": "2019Q4",
+   "last": "2026Q3",
+   "duplicate_periods": [],
+   "gaps": [],
+   "non_positive_capex": []
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2019-12-31",
+   "ok": true,
+   "quarters_sum": 70697000000.0,
+   "annual": 70697000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2020-12-31",
+   "ok": true,
+   "quarters_sum": 85966000000.0,
+   "annual": 85965000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2021-12-31",
+   "ok": true,
+   "quarters_sum": 117929000000.0,
+   "annual": 117929000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2022-12-31",
+   "ok": true,
+   "quarters_sum": 116609000000.0,
+   "annual": 116609000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2023-12-31",
+   "ok": true,
+   "quarters_sum": 134901000000.0,
+   "annual": 134902000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2024-12-31",
+   "ok": true,
+   "quarters_sum": 164500000000.0,
+   "annual": 164501000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2025-12-31",
+   "ok": true,
+   "quarters_sum": 200965000000.0,
+   "annual": 200966000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2019-12-31",
+   "ok": true,
+   "quarters_sum": 36314000000.0,
+   "annual": 36314000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2020-12-31",
+   "ok": true,
+   "quarters_sum": 38747000000.0,
+   "annual": 38747000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2021-12-31",
+   "ok": true,
+   "quarters_sum": 57683000000.0,
+   "annual": 57683000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2022-12-31",
+   "ok": true,
+   "quarters_sum": 50475000000.0,
+   "annual": 50475000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2023-12-31",
+   "ok": true,
+   "quarters_sum": 71113000000.0,
+   "annual": 71113000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2024-12-31",
+   "ok": true,
+   "quarters_sum": 91328000000.0,
+   "annual": 91328000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2025-12-31",
+   "ok": true,
+   "quarters_sum": 115800000000.0,
+   "annual": 115800000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2019-12-31",
+   "ok": true,
+   "quarters_sum": 15102000000.0,
+   "annual": 15102000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2020-12-31",
+   "ok": true,
+   "quarters_sum": 15163000000.0,
+   "annual": 15163000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2021-12-31",
+   "ok": true,
+   "quarters_sum": 18690000000.0,
+   "annual": 18690000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2022-12-31",
+   "ok": true,
+   "quarters_sum": 31186000000.0,
+   "annual": 31186000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2023-12-31",
+   "ok": true,
+   "quarters_sum": 27045000000.0,
+   "annual": 27045000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2024-12-31",
+   "ok": true,
+   "quarters_sum": 37256000000.0,
+   "annual": 37256000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2025-12-31",
+   "ok": true,
+   "quarters_sum": 69691000000.0,
+   "annual": 69691000000.0
+  },
+  {
+   "ticker": "META",
+   "check": "completeness",
+   "ok": true,
+   "quarters": 28,
+   "first": "2019Q4",
+   "last": "2026Q3",
+   "duplicate_periods": [],
+   "gaps": [],
+   "non_positive_capex": []
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2020-05-31",
+   "ok": true,
+   "quarters_sum": 39067000000.0,
+   "annual": 39068000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2021-05-31",
+   "ok": true,
+   "quarters_sum": 40479000000.0,
+   "annual": 40479000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2022-05-31",
+   "ok": true,
+   "quarters_sum": 42441000000.0,
+   "annual": 42440000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2023-05-31",
+   "ok": true,
+   "quarters_sum": 49954000000.0,
+   "annual": 49954000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2024-05-31",
+   "ok": true,
+   "quarters_sum": 52961000000.0,
+   "annual": 52961000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2025-05-31",
+   "ok": true,
+   "quarters_sum": 57399000000.0,
+   "annual": 57399000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2026-05-31",
+   "ok": true,
+   "quarters_sum": 67358000000.0,
+   "annual": 67357000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2020-05-31",
+   "ok": true,
+   "quarters_sum": 13139000000.0,
+   "annual": 13139000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2021-05-31",
+   "ok": true,
+   "quarters_sum": 15887000000.0,
+   "annual": 15887000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2022-05-31",
+   "ok": true,
+   "quarters_sum": 9539000000.0,
+   "annual": 9539000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2023-05-31",
+   "ok": true,
+   "quarters_sum": 17165000000.0,
+   "annual": 17165000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2024-05-31",
+   "ok": true,
+   "quarters_sum": 18673000000.0,
+   "annual": 18673000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2025-05-31",
+   "ok": true,
+   "quarters_sum": 20821000000.0,
+   "annual": 20821000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2026-05-31",
+   "ok": true,
+   "quarters_sum": 31977000000.0,
+   "annual": 31977000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2020-05-31",
+   "ok": true,
+   "quarters_sum": 1564000000.0,
+   "annual": 1564000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2021-05-31",
+   "ok": true,
+   "quarters_sum": 2135000000.0,
+   "annual": 2135000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2022-05-31",
+   "ok": true,
+   "quarters_sum": 4511000000.0,
+   "annual": 4511000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2023-05-31",
+   "ok": true,
+   "quarters_sum": 8695000000.0,
+   "annual": 8695000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2024-05-31",
+   "ok": true,
+   "quarters_sum": 6866000000.0,
+   "annual": 6866000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2025-05-31",
+   "ok": true,
+   "quarters_sum": 21215000000.0,
+   "annual": 21215000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "annual_tieout",
+   "metric": "capex",
+   "year_end": "2026-05-31",
+   "ok": true,
+   "quarters_sum": 55663000000.0,
+   "annual": 55663000000.0
+  },
+  {
+   "ticker": "ORCL",
+   "check": "completeness",
+   "ok": true,
+   "quarters": 28,
+   "first": "2019Q4",
+   "last": "2026Q3",
+   "duplicate_periods": [],
+   "gaps": [],
+   "non_positive_capex": []
+  },
+  {
+   "ticker": "NVDA",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2020-01-26",
+   "ok": true,
+   "quarters_sum": 10918000000.0,
+   "annual": 10918000000.0
+  },
+  {
+   "ticker": "NVDA",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2021-01-31",
+   "ok": true,
+   "quarters_sum": 16675000000.0,
+   "annual": 16675000000.0
+  },
+  {
+   "ticker": "NVDA",
+   "check": "annual_tieout",
+   "metric": "revenue",
+   "year_end": "2022-01-30",
+   "ok": true,
+   "quarters_sum": 26914000000.0,
+   "annual": 26914000000.0
+  },
+  {
+   "ticker": "NVDA",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2020-01-26",
+   "ok": true,
+   "quarters_sum": 4761000000.0,
+   "annual": 4761000000.0
+  },
+  {
+   "ticker": "NVDA",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2021-01-31",
+   "ok": true,
+   "quarters_sum": 5822000000.0,
+   "annual": 5822000000.0
+  },
+  {
+   "ticker": "NVDA",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2022-01-30",
+   "ok": true,
+   "quarters_sum": 9108000000.0,
+   "annual": 9108000000.0
+  },
+  {
+   "ticker": "NVDA",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2023-01-29",
+   "ok": true,
+   "quarters_sum": 5641000000.0,
+   "annual": 5641000000.0
+  },
+  {
+   "ticker": "NVDA",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2024-01-28",
+   "ok": true,
+   "quarters_sum": 28090000000.0,
+   "annual": 28090000000.0
+  },
+  {
+   "ticker": "NVDA",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2025-01-26",
+   "ok": true,
+   "quarters_sum": 64089000000.0,
+   "annual": 64089000000.0
+  },
+  {
+   "ticker": "NVDA",
+   "check": "annual_tieout",
+   "metric": "operating_cash_flow",
+   "year_end": "2026-01-25",
+   "ok": true,
+   "quarters_sum": 102718000000.0,
+   "annual": 102718000000.0
+  },
+  {
+   "ticker": "NVDA",
+   "check": "completeness",
+   "ok": false,
+   "quarters": 23,
+   "first": "2019Q3",
+   "last": "2026Q2",
+   "duplicate_periods": [],
+   "gaps": [
+    "2019-10-27 -> 2020-01-27",
+    "2020-10-25 -> 2021-02-01",
+    "2022-01-30 -> 2022-10-31"
+   ],
+   "non_positive_capex": []
+  }
+ ]
+}
