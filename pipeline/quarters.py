@@ -28,6 +28,7 @@ class Fact:
     form: str
     accn: str
     filed: str
+    tag: str = ""
 
     @property
     def days(self) -> int:
@@ -43,13 +44,14 @@ class Quarter:
     accn: str  # filing the number (or the later YTD number) came from
     form: str
     filed: str
+    tag: str = ""
 
 
 def _is_quarter(days: int) -> bool:
     return QUARTER_MIN_DAYS <= days <= QUARTER_MAX_DAYS
 
 
-def parse_facts(units_usd: list[dict]) -> list[Fact]:
+def parse_facts(units_usd: list[dict], tag: str = "") -> list[Fact]:
     """Keep duration facts only, and for each (start, end) keep the most recently
     filed value, so restated numbers replace old ones."""
     best: dict[tuple[str, str], dict] = {}
@@ -69,6 +71,7 @@ def parse_facts(units_usd: list[dict]) -> list[Fact]:
             form=f.get("form", ""),
             accn=f.get("accn", ""),
             filed=f.get("filed", ""),
+            tag=tag,
         )
         for f in best.values()
     ]
@@ -82,7 +85,7 @@ def to_quarters(facts: list[Fact]) -> dict[date, Quarter]:
     # Direct 3-month numbers.
     for f in facts:
         if _is_quarter(f.days):
-            direct[f.end] = Quarter(f.start, f.end, f.value, "direct", f.accn, f.form, f.filed)
+            direct[f.end] = Quarter(f.start, f.end, f.value, "direct", f.accn, f.form, f.filed, f.tag)
 
     # YTD numbers share the same start date (the fiscal year start).
     # Within a group, subtract each total from the next one.
@@ -95,7 +98,8 @@ def to_quarters(facts: list[Fact]) -> dict[date, Quarter]:
             q_start = prev.end + timedelta(days=1)
             if _is_quarter((cur.end - q_start).days + 1):
                 derived[cur.end] = Quarter(
-                    q_start, cur.end, cur.value - prev.value, "derived", cur.accn, cur.form, cur.filed
+                    q_start, cur.end, cur.value - prev.value, "derived", cur.accn, cur.form, cur.filed,
+                    cur.tag,
                 )
 
     out = dict(derived)
@@ -103,12 +107,19 @@ def to_quarters(facts: list[Fact]) -> dict[date, Quarter]:
     return out
 
 
-def merge_tags(per_tag: list[dict[date, Quarter]]) -> dict[date, Quarter]:
-    """per_tag is ordered by preference; earlier tags win for the same quarter."""
-    out: dict[date, Quarter] = {}
-    for quarters in reversed(per_tag):
-        out.update(quarters)
-    return out
+def merge_tag_facts(per_tag: list[list[Fact]]) -> list[Fact]:
+    """Combine facts from several tags BEFORE doing the YTD subtraction.
+
+    per_tag is ordered by preference. For each (start, end) period the first tag
+    that has it wins. Doing this before subtracting matters: a company might tag
+    its 6-month total one way and its full-year total another way, and we still
+    need both in the same chain to work out Q3 and Q4.
+    """
+    seen: dict[tuple[date, date], Fact] = {}
+    for facts in per_tag:
+        for f in facts:
+            seen.setdefault((f.start, f.end), f)
+    return list(seen.values())
 
 
 def calendar_quarter(start: date, end: date) -> str:

@@ -1,6 +1,6 @@
 from datetime import date
 
-from pipeline.quarters import calendar_quarter, merge_tags, parse_facts, to_quarters
+from pipeline.quarters import calendar_quarter, merge_tag_facts, parse_facts, to_quarters
 
 
 def f(start, end, val, form="10-Q", filed="2025-01-01", accn="a"):
@@ -54,8 +54,16 @@ def test_fiscal_year_ends_line_up_by_calendar_quarter():
 
 
 def test_merge_prefers_first_tag():
-    a = to_quarters(parse_facts([f("2024-01-01", "2024-03-31", 1)]))
-    b = to_quarters(parse_facts([f("2024-01-01", "2024-03-31", 2), f("2023-10-01", "2023-12-31", 9)]))
-    m = merge_tags([a, b])
-    assert m[date(2024, 3, 31)].value == 1
-    assert m[date(2023, 12, 31)].value == 9
+    a = parse_facts([f("2024-01-01", "2024-03-31", 1)], "A")
+    b = parse_facts([f("2024-01-01", "2024-03-31", 2), f("2023-10-01", "2023-12-31", 9)], "B")
+    q = to_quarters(merge_tag_facts([a, b]))
+    assert q[date(2024, 3, 31)].value == 1
+    assert q[date(2023, 12, 31)].value == 9
+
+
+def test_chain_split_across_tags_still_works():
+    # 9-month total under one tag, full year under another (this happened to Nvidia).
+    a = parse_facts([f("2024-01-01", "2024-09-30", 75)], "A")
+    b = parse_facts([f("2024-01-01", "2024-12-31", 110, form="10-K")], "B")
+    q = to_quarters(merge_tag_facts([a, b]))
+    assert q[date(2024, 12, 31)].value == 35

@@ -17,7 +17,7 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 
 from pipeline import config
-from pipeline.quarters import annual_facts, calendar_quarter, merge_tags, parse_facts, to_quarters
+from pipeline.quarters import annual_facts, calendar_quarter, merge_tag_facts, parse_facts, to_quarters
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -54,16 +54,15 @@ def fetch_company_facts(cik: str) -> dict:
 
 def metric_quarters(facts_json: dict, ticker: str, metric: str):
     gaap = facts_json.get("facts", {}).get("us-gaap", {})
-    per_tag, used, all_facts = [], [], []
+    per_tag, used = [], []
     for tag in config.tags_for(ticker, metric):
         units = gaap.get(tag, {}).get("units", {}).get("USD")
         if not units:
             continue
-        facts = parse_facts(units)
-        per_tag.append(to_quarters(facts))
+        per_tag.append(parse_facts(units, tag))
         used.append(tag)
-        all_facts.append(facts)
-    return merge_tags(per_tag), used, all_facts
+    facts = merge_tag_facts(per_tag)
+    return to_quarters(facts), used, facts
 
 
 def filing_link(cik: str, accn: str) -> str:
@@ -78,7 +77,7 @@ def build_company(ticker: str, info: dict, facts_json: dict, checks: list) -> di
         metrics[metric] = {d: v for d, v in q.items() if d >= cutoff}
         tags_used[metric] = used
         if metric in ("revenue", "operating_cash_flow", "capex"):
-            check_annual_tieout(ticker, metric, q, all_facts[0] if all_facts else [], checks)
+            check_annual_tieout(ticker, metric, q, all_facts, checks)
 
     # One row per quarter where we have capex (the core number).
     rows = []
@@ -98,6 +97,7 @@ def build_company(ticker: str, info: dict, facts_json: dict, checks: list) -> di
                     "method": q.method,
                     "form": q.form,
                     "filed": q.filed,
+                    "tag": q.tag,
                     "url": filing_link(info["cik"], q.accn),
                 }
         ocf, capex, rev = row["operating_cash_flow"], row["capex"], row["revenue"]
@@ -108,6 +108,20 @@ def build_company(ticker: str, info: dict, facts_json: dict, checks: list) -> di
 
     check_completeness(ticker, rows, checks)
     return {**info, "tags_used": tags_used, "quarters": rows}
+
+
+def tag_inventory(facts_json: dict) -> dict:
+    """List capex-like tags a company has, so missing quarters are easy to track down."""
+    out = {}
+    for tag, body in facts_json.get("facts", {}).get("us-gaap", {}).items():
+        if not any(k in tag for k in ("PropertyPlant", "ProductiveAssets", "CapitalExpend")):
+            continue
+        if not tag.startswith(("Payments", "Purchase")):
+            continue
+        ends = [f["end"] for f in body.get("units", {}).get("USD", []) if "start" in f]
+        if ends:
+            out[tag] = {"facts": len(ends), "first_end": min(ends), "last_end": max(ends)}
+    return out
 
 
 def check_annual_tieout(ticker, metric, quarters, facts, checks):
@@ -149,12 +163,15 @@ def main() -> None:
     out = {"generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
            "units": "USD", "companies": {}}
     checks: list = []
+    inventory: dict = {}
     for ticker, info in config.COMPANIES.items():
         print(f"Fetching {ticker} ...", flush=True)
         facts_json = fetch_company_facts(info["cik"])
         out["companies"][ticker] = build_company(ticker, info, facts_json, checks)
+        inventory[ticker] = tag_inventory(facts_json)
 
     (DATA / "quarterly.json").write_text(json.dumps(out, indent=1))
+    (DATA / "tag_inventory.json").write_text(json.dumps(inventory, indent=1))
     failed = [c for c in checks if not c["ok"]]
     (DATA / "checks.json").write_text(json.dumps(
         {"generated_at": out["generated_at"], "passed": len(checks) - len(failed),
