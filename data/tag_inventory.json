@@ -1,0 +1,64 @@
+{
+ "MSFT": {
+  "PaymentsToAcquirePropertyPlantAndEquipment": {
+   "facts": 232,
+   "first_end": "2008-06-30",
+   "last_end": "2026-09-30"
+  }
+ },
+ "GOOGL": {
+  "PaymentsToAcquirePropertyPlantAndEquipment": {
+   "facts": 124,
+   "first_end": "2013-12-31",
+   "last_end": "2026-09-30"
+  }
+ },
+ "AMZN": {
+  "PaymentsForProceedsFromProductiveAssets": {
+   "facts": 25,
+   "first_end": "2015-12-31",
+   "last_end": "2018-06-30"
+  },
+  "PaymentsToAcquireProductiveAssets": {
+   "facts": 158,
+   "first_end": "2016-12-31",
+   "last_end": "2026-09-30"
+  },
+  "PaymentsToAcquirePropertyPlantAndEquipment": {
+   "facts": 152,
+   "first_end": "2007-12-31",
+   "last_end": "2017-03-31"
+  }
+ },
+ "META": {
+  "PaymentsToAcquirePropertyPlantAndEquipment": {
+   "facts": 130,
+   "first_end": "2010-12-31",
+   "last_end": "2026-09-30"
+  }
+ },
+ "ORCL": {
+  "PaymentsForProceedsFromProductiveAssets": {
+   "facts": 18,
+   "first_end": "2008-05-31",
+   "last_end": "2011-05-31"
+  },
+  "PaymentsToAcquirePropertyPlantAndEquipment": {
+   "facts": 137,
+   "first_end": "2010-05-31",
+   "last_end": "2026-08-31"
+  }
+ },
+ "NVDA": {
+  "PaymentsToAcquireProductiveAssets": {
+   "facts": 35,
+   "first_end": "2019-10-27",
+   "last_end": "2026-07-26"
+  },
+  "PaymentsToAcquirePropertyPlantAndEquipment": {
+   "facts": 55,
+   "first_end": "2010-01-31",
+   "last_end": "2020-07-26"
+  }
+ }
+}

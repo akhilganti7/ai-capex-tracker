@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T03:46:38+00:00",
+ "generated_at": "2026-11-24T03:48:59+00:00",
  "units": "USD",
  "companies": {
   "MSFT": {
@@ -33,24 +33,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-01-26",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021002316/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-01-26",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021002316/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-01-26",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021002316/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-01-26",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021002316/"
       }
      },
@@ -71,24 +75,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-04-27",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021020891/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-04-27",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021020891/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-04-27",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021020891/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-04-27",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021020891/"
       }
      },
@@ -109,24 +117,28 @@
        "method": "direct",
        "form": "10-K",
        "filed": "2020-07-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459020034944/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2022-07-28",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022026876/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2022-07-28",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022026876/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2022-07-28",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022026876/"
       }
      },
@@ -147,24 +159,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-10-26",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021051992/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-10-26",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021051992/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-10-26",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021051992/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-10-26",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021051992/"
       }
      },
@@ -185,24 +201,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-01-25",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022002324/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-01-25",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022002324/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-01-25",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022002324/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-01-25",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022002324/"
       }
      },
@@ -223,24 +243,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-04-26",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022015675/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-04-26",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022015675/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-04-26",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022015675/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-04-26",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022015675/"
       }
      },
@@ -261,24 +285,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2023-07-27",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2023-07-27",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2023-07-27",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2023-07-27",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/"
       }
      },
@@ -299,24 +327,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-10-25",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022035087/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-10-25",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022035087/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-10-25",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022035087/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-10-25",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022035087/"
       }
      },
@@ -337,24 +369,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-01-24",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459023000733/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-01-24",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459023000733/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-01-24",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459023000733/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-01-24",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459023000733/"
       }
      },
@@ -375,24 +411,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-04-25",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023014423/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-04-25",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023014423/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-04-25",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023014423/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-04-25",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023014423/"
       }
      },
@@ -413,24 +453,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2024-07-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2024-07-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2024-07-30",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2024-07-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/"
       }
      },
@@ -451,24 +495,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-10-24",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023054855/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-10-24",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023054855/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-10-24",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023054855/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-10-24",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023054855/"
       }
      },
@@ -489,24 +537,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-01-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024008814/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-01-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024008814/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-01-30",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024008814/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-01-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024008814/"
       }
      },
@@ -527,24 +579,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-04-25",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-04-25",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-04-25",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-04-25",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024048288/"
       }
      },
@@ -565,24 +621,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2025-07-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2025-07-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2025-07-30",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2025-07-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/"
       }
      },
@@ -603,24 +663,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-10-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024118967/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-10-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024118967/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-10-30",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024118967/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-10-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024118967/"
       }
      },
@@ -641,24 +705,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-01-29",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025010491/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-01-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025010491/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-01-29",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025010491/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-01-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025010491/"
       }
      },
@@ -679,24 +747,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-04-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025061046/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-04-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025061046/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-04-30",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025061046/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-04-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025061046/"
       }
      },
@@ -717,24 +789,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2026-07-29",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-07-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-07-29",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-07-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
       }
      },
@@ -755,24 +831,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-10-29",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-10-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-10-29",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-10-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/"
       }
      },
@@ -793,24 +873,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-01-28",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-01-28",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-01-28",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-01-28",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/"
       }
      },
@@ -831,24 +915,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-29",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-29",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/"
       }
      },
@@ -869,24 +957,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2026-07-29",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-07-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-07-29",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-07-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
       }
      },
@@ -907,24 +999,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-28",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-28",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-28",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-28",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
       }
      },
@@ -945,24 +1041,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-01-28",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-01-28",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-01-28",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-01-28",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526027207/"
       }
      },
@@ -983,24 +1083,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-29",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-29",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/"
       }
      },
@@ -1021,24 +1125,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2026-07-29",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-07-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-07-29",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-07-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
       }
      },
@@ -1059,24 +1167,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-28",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-28",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-28",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-28",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
       }
      },
@@ -1120,18 +1232,21 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2020-02-04",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204420000008/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2022-02-02",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000019/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2022-02-02",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000019/"
       }
      },
@@ -1152,18 +1267,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-04-28",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204421000020/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-04-28",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204421000020/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-04-28",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204421000020/"
       }
      },
@@ -1184,18 +1302,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-07-28",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204421000047/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-07-28",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204421000047/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2020-07-31",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204420000032/"
       }
      },
@@ -1216,18 +1337,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-10-27",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204421000057/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-10-27",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204421000057/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2020-10-30",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204420000050/"
       }
      },
@@ -1248,18 +1372,21 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2023-02-03",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000016/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2023-02-03",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000016/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2023-02-03",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000016/"
       }
      },
@@ -1280,18 +1407,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-04-27",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000029/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-04-27",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000029/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-04-27",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000029/"
       }
      },
@@ -1312,18 +1442,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-07-27",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000071/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2022-07-27",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000071/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2022-07-27",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000071/"
       }
      },
@@ -1344,18 +1477,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-10-26",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000090/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2022-10-26",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000090/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2022-10-26",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000090/"
       }
      },
@@ -1376,18 +1512,21 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2024-01-31",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000022/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2024-01-31",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000022/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2024-01-31",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000022/"
       }
      },
@@ -1408,18 +1547,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-04-26",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000045/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-04-26",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000045/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-04-26",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000045/"
       }
      },
@@ -1440,18 +1582,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-07-26",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000070/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2023-07-26",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000070/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2023-07-26",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000070/"
       }
      },
@@ -1472,18 +1617,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-10-25",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000094/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2023-10-25",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000094/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2023-10-25",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000094/"
       }
      },
@@ -1504,18 +1652,21 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2025-02-05",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2025-02-05",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2025-02-05",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/"
       }
      },
@@ -1536,18 +1687,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-04-26",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000053/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-04-26",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000053/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-04-26",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000053/"
       }
      },
@@ -1568,18 +1722,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-07-24",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000079/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-07-24",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000079/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-07-24",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000079/"
       }
      },
@@ -1600,18 +1757,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-10-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000118/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-10-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000118/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-10-30",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000118/"
       }
      },
@@ -1632,18 +1792,21 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2025-02-05",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-05",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-05",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
       }
      },
@@ -1664,24 +1827,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-04-25",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000043/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-04-25",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000043/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-04-25",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000043/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-04-25",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000043/"
       }
      },
@@ -1702,24 +1869,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-07-24",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000079/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-07-24",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000062/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-07-24",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000062/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-07-24",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000062/"
       }
      },
@@ -1740,24 +1911,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-10-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000118/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-10-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000091/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-10-30",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000091/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-10-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000091/"
       }
      },
@@ -1778,24 +1953,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2025-02-05",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-05",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-05",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-05",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
       }
      },
@@ -1816,24 +1995,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-04-25",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000043/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/"
       }
      },
@@ -1854,24 +2037,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-07-23",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-07-23",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-07-23",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-07-23",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
       }
      },
@@ -1892,24 +2079,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-29",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-10-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-10-29",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
       }
      },
@@ -1930,24 +2121,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-05",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-05",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-05",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-05",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/"
       }
      },
@@ -1968,24 +2163,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000048/"
       }
      },
@@ -2006,24 +2205,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-07-23",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-07-23",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-07-23",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-07-23",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
       }
      },
@@ -2044,24 +2247,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-29",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-10-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-10-29",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
       }
      },
@@ -2107,24 +2314,28 @@
        "method": "direct",
        "form": "10-K",
        "filed": "2021-02-03",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2022-02-04",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2022-02-04",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2022-02-04",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/"
       }
      },
@@ -2145,24 +2356,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-04-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-04-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-04-30",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-04-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000010/"
       }
      },
@@ -2183,24 +2398,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-07-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-07-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-07-30",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-07-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000020/"
       }
      },
@@ -2221,24 +2440,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-10-29",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-10-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-10-29",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-10-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000028/"
       }
      },
@@ -2259,24 +2482,28 @@
        "method": "direct",
        "form": "10-K",
        "filed": "2021-02-03",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2023-02-03",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2023-02-03",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2023-02-03",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/"
       }
      },
@@ -2297,24 +2524,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-04-29",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-04-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-04-29",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-04-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000013/"
       }
      },
@@ -2335,24 +2566,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-07-29",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-07-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-07-29",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-07-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000019/"
       }
      },
@@ -2373,24 +2608,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-10-28",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-10-28",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-10-28",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-10-28",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000023/"
       }
      },
@@ -2411,24 +2650,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2024-02-02",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2024-02-02",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2024-02-02",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2024-02-02",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/"
       }
      },
@@ -2449,24 +2692,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-04-28",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-04-28",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-04-28",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-04-28",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000008/"
       }
      },
@@ -2487,24 +2734,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-08-04",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-08-04",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-08-04",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-08-04",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000012/"
       }
      },
@@ -2525,24 +2776,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-10-27",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-10-27",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-10-27",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-10-27",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000018/"
       }
      },
@@ -2563,24 +2818,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2025-02-07",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2025-02-07",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2025-02-07",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2025-02-07",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/"
       }
      },
@@ -2601,24 +2860,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-05-01",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-05-01",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-05-01",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-05-01",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000083/"
       }
      },
@@ -2639,24 +2902,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-08-02",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-08-02",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-08-02",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-08-02",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000130/"
       }
      },
@@ -2677,24 +2944,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-11-01",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-11-01",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-11-01",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-11-01",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000161/"
       }
      },
@@ -2715,24 +2986,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-06",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-06",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-06",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-06",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
       }
      },
@@ -2753,24 +3028,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-05-02",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-05-02",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-05-02",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-05-02",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000036/"
       }
      },
@@ -2791,24 +3070,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-08-01",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-08-01",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-08-01",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-08-01",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000086/"
       }
      },
@@ -2829,24 +3112,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-10-31",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-10-31",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-10-31",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-10-31",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000123/"
       }
      },
@@ -2867,24 +3154,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-06",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-06",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-06",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-06",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
       }
      },
@@ -2905,24 +3196,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/"
       }
      },
@@ -2943,24 +3238,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-07-31",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-07-31",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-07-31",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-07-31",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/"
       }
      },
@@ -2981,24 +3280,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-30",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/"
       }
      },
@@ -3019,24 +3322,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-06",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-06",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-06",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-06",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/"
       }
      },
@@ -3057,24 +3364,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/"
       }
      },
@@ -3095,24 +3406,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-07-31",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-07-31",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-07-31",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-07-31",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/"
       }
      },
@@ -3133,24 +3448,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-30",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/"
       }
      },
@@ -3195,24 +3514,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2022-02-03",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000018/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2022-02-03",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000018/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2022-02-03",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000018/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2022-02-03",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000018/"
       }
      },
@@ -3233,24 +3556,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-04-29",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000033/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-04-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000033/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-04-29",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000033/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-04-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000033/"
       }
      },
@@ -3271,24 +3598,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-07-29",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000049/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-07-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000049/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-07-29",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000049/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-07-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000049/"
       }
      },
@@ -3309,24 +3640,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-10-26",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000065/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-10-26",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000065/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-10-26",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000065/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-10-26",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000065/"
       }
      },
@@ -3347,24 +3682,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2023-02-02",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000013/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2023-02-02",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000013/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2023-02-02",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000013/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2023-02-02",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000013/"
       }
      },
@@ -3385,24 +3724,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-04-28",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000057/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-04-28",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000057/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-04-28",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000057/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-04-28",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000057/"
       }
      },
@@ -3423,24 +3766,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-07-28",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000082/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2022-07-28",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000082/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2022-07-28",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000082/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2022-07-28",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000082/"
       }
      },
@@ -3461,24 +3808,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-10-27",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000108/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2022-10-27",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000108/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2022-10-27",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000108/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2022-10-27",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680122000108/"
       }
      },
@@ -3499,24 +3850,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2024-02-02",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000012/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2024-02-02",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000012/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2024-02-02",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000012/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2024-02-02",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000012/"
       }
      },
@@ -3537,24 +3892,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-04-27",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000067/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-04-27",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000067/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-04-27",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000067/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-04-27",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000067/"
       }
      },
@@ -3575,24 +3934,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-07-27",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000093/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2023-07-27",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000093/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2023-07-27",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000093/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2023-07-27",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000093/"
       }
      },
@@ -3613,24 +3976,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-10-26",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000103/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2023-10-26",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000103/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2023-10-26",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000103/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2023-10-26",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680123000103/"
       }
      },
@@ -3651,24 +4018,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2025-01-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2025-01-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2025-01-30",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2025-01-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/"
       }
      },
@@ -3689,24 +4060,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-04-25",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000049/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-04-25",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000049/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-04-25",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000049/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-04-25",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000049/"
       }
      },
@@ -3727,24 +4102,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-08-01",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000069/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-08-01",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000069/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-08-01",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000069/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-08-01",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000069/"
       }
      },
@@ -3765,24 +4144,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-10-31",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000081/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-10-31",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000081/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-10-31",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000081/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-10-31",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680124000081/"
       }
      },
@@ -3803,24 +4186,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2026-01-29",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-01-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-01-29",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-01-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
       }
      },
@@ -3841,24 +4228,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-05-01",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-05-01",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-05-01",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-05-01",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000054/"
       }
      },
@@ -3879,24 +4270,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-07-31",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-07-31",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-07-31",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-07-31",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/"
       }
      },
@@ -3917,24 +4312,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-10-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-10-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-10-30",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-10-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025047240/"
       }
      },
@@ -3955,24 +4354,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2026-01-29",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-01-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-01-29",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-01-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
       }
      },
@@ -3993,24 +4396,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/"
       }
      },
@@ -4031,24 +4438,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-07-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-07-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-07-30",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-07-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/"
       }
      },
@@ -4069,24 +4480,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-22",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-10-22",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-10-22",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-10-22",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/"
       }
      },
@@ -4107,24 +4522,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2026-01-29",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-01-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-01-29",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-01-29",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/"
       }
      },
@@ -4145,24 +4564,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-04-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/"
       }
      },
@@ -4183,24 +4606,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-07-30",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-07-30",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-07-30",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-07-30",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/"
       }
      },
@@ -4221,24 +4648,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-10-22",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-10-22",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-10-22",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-10-22",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/"
       }
      },
@@ -4283,18 +4714,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2020-12-11",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2020-12-11",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2020-12-11",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459020056896/"
       }
      },
@@ -4315,18 +4749,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-03-11",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-03-11",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-03-11",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021012539/"
       }
      },
@@ -4344,31 +4781,34 @@
      "end": "2020-05-31",
      "sources": {
       "revenue": {
-       "method": "derived",
+       "method": "direct",
        "form": "10-K",
        "filed": "2022-06-21",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2022-06-21",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2022-06-21",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/"
       }
      },
-     "revenue": 10439000000.0,
+     "revenue": 39068000000.0,
      "operating_cash_flow": 3614000000.0,
      "capex": 433000000.0,
      "finance_lease_principal": null,
      "free_cash_flow": 3181000000.0,
      "reinvestment_rate": 0.11981184283342557,
-     "capex_to_revenue": 0.04147906887632915
+     "capex_to_revenue": 0.011083239479881232
     },
     {
      "period": "2020Q3",
@@ -4379,18 +4819,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-09-13",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-09-13",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-09-13",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021047772/"
       }
      },
@@ -4411,18 +4854,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-12-10",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-12-10",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-12-10",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021060022/"
       }
      },
@@ -4443,18 +4889,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-03-11",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2022-03-11",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2022-03-11",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022009859/"
       }
      },
@@ -4472,31 +4921,34 @@
      "end": "2021-05-31",
      "sources": {
       "revenue": {
-       "method": "derived",
+       "method": "direct",
        "form": "10-K",
-       "filed": "2023-06-20",
-       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/"
+       "filed": "2022-06-21",
+       "tag": "Revenues",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2023-06-20",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2023-06-20",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/"
       }
      },
-     "revenue": 11227000000.0,
+     "revenue": 40479000000.0,
      "operating_cash_flow": 4842000000.0,
      "capex": 717000000.0,
      "finance_lease_principal": null,
      "free_cash_flow": 4125000000.0,
      "reinvestment_rate": 0.14807930607187111,
-     "capex_to_revenue": 0.06386389952792376
+     "capex_to_revenue": 0.017712888164233307
     },
     {
      "period": "2021Q3",
@@ -4507,18 +4959,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-09-13",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-09-13",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-09-13",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022031545/"
       }
      },
@@ -4539,18 +4994,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-12-13",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2022-12-13",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2022-12-13",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022039278/"
       }
      },
@@ -4571,18 +5029,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-03-10",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2023-03-10",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2023-03-10",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459023003413/"
       }
      },
@@ -4600,31 +5061,34 @@
      "end": "2022-05-31",
      "sources": {
       "revenue": {
-       "method": "derived",
+       "method": "direct",
        "form": "10-K",
-       "filed": "2024-06-20",
-       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/"
+       "filed": "2022-06-21",
+       "tag": "Revenues",
+       "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2024-06-20",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2024-06-20",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/"
       }
      },
-     "revenue": 11840000000.0,
+     "revenue": 42440000000.0,
      "operating_cash_flow": 3985000000.0,
      "capex": 1423000000.0,
      "finance_lease_principal": null,
      "free_cash_flow": 2562000000.0,
      "reinvestment_rate": 0.35708908406524464,
-     "capex_to_revenue": 0.12018581081081081
+     "capex_to_revenue": 0.033529688972667296
     },
     {
      "period": "2022Q3",
@@ -4635,18 +5099,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-09-12",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-09-12",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-09-12",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023047713/"
       }
      },
@@ -4667,18 +5134,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2023-12-12",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2023-12-12",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2023-12-12",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023069682/"
       }
      },
@@ -4699,18 +5169,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-03-12",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-03-12",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-03-12",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024029904/"
       }
      },
@@ -4731,18 +5204,21 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2025-06-18",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2025-06-18",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2025-06-18",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/"
       }
      },
@@ -4763,18 +5239,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-09-10",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-09-10",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-09-10",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024104905/"
       }
      },
@@ -4795,18 +5274,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-12-10",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-12-10",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-12-10",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024134973/"
       }
      },
@@ -4827,18 +5309,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-03-11",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-03-11",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-03-11",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025037143/"
       }
      },
@@ -4859,18 +5344,21 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2026-06-22",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-06-22",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-06-22",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
       }
      },
@@ -4891,24 +5379,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-09-10",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-09-10",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-09-10",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-09-10",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/"
       }
      },
@@ -4929,24 +5421,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-12-11",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-12-11",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-12-11",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-12-11",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/"
       }
      },
@@ -4967,24 +5463,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-03-11",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-03-11",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-03-11",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-03-11",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/"
       }
      },
@@ -5005,24 +5505,28 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2026-06-22",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-06-22",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-06-22",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-K",
        "filed": "2025-06-18",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/"
       }
      },
@@ -5043,24 +5547,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-09-11",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-09-11",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-09-11",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/"
       },
       "finance_lease_principal": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-09-10",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525200095/"
       }
      },
@@ -5081,24 +5589,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-12-11",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-12-11",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-12-11",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-12-11",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525315925/"
       }
      },
@@ -5119,24 +5631,28 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-03-11",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-03-11",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-03-11",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/"
       },
       "finance_lease_principal": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-03-11",
+       "tag": "FinanceLeasePrincipalPayments",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526101045/"
       }
      },
@@ -5157,18 +5673,21 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2026-06-22",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-06-22",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-06-22",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/"
       }
      },
@@ -5189,18 +5708,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-09-11",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-09-11",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-09-11",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/"
       }
      },
@@ -5245,18 +5767,21 @@
        "method": "direct",
        "form": "10-K",
        "filed": "2020-02-20",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581020000010/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2020-11-18",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581020000189/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2019-11-14",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581019000170/"
       }
      },
@@ -5277,18 +5802,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-05-26",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000064/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-05-26",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000064/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2020-05-21",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581020000065/"
       }
      },
@@ -5309,18 +5837,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-08-20",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000131/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-08-20",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000131/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2020-08-19",
+       "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581020000147/"
       }
      },
@@ -5341,18 +5872,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-11-22",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000163/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-11-22",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000163/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-11-22",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000163/"
       }
      },
@@ -5373,18 +5907,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-05-27",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000079/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-05-27",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000079/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2021-05-26",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000064/"
       }
      },
@@ -5405,18 +5942,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-08-31",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000147/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2022-08-31",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000147/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-08-20",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000131/"
       }
      },
@@ -5437,18 +5977,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2022-11-18",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000166/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2022-11-18",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000166/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2021-11-22",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000163/"
       }
      },
@@ -5468,19 +6011,22 @@
       "revenue": {
        "method": "derived",
        "form": "10-K",
-       "filed": "2024-02-21",
-       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000029/"
+       "filed": "2022-03-18",
+       "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+       "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000036/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2024-02-21",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000029/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2024-02-21",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000029/"
       }
      },
@@ -5501,18 +6047,21 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2025-02-26",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2025-02-26",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2025-02-26",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/"
       }
      },
@@ -5533,18 +6082,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-05-29",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000124/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-05-29",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000124/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-05-29",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000124/"
       }
      },
@@ -5565,18 +6117,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-08-28",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000264/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-08-28",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000264/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-08-28",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000264/"
       }
      },
@@ -5597,18 +6152,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2024-11-20",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-11-20",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2024-11-20",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000316/"
       }
      },
@@ -5629,18 +6187,21 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-25",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-25",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-25",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
       }
      },
@@ -5661,18 +6222,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-05-28",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-05-28",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-05-28",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000116/"
       }
      },
@@ -5693,18 +6257,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-08-27",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-08-27",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-08-27",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/"
       }
      },
@@ -5725,18 +6292,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-11-19",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-11-19",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-11-19",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/"
       }
      },
@@ -5757,18 +6327,21 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-25",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-25",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-25",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
       }
      },
@@ -5789,18 +6362,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-05-20",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-05-20",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-05-20",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/"
       }
      },
@@ -5821,18 +6397,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-08-26",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-08-26",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-08-26",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/"
       }
      },
@@ -5853,18 +6432,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2025-11-19",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-11-19",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2025-11-19",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/"
       }
      },
@@ -5885,18 +6467,21 @@
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-25",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-25",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
       },
       "capex": {
        "method": "derived",
        "form": "10-K",
        "filed": "2026-02-25",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/"
       }
      },
@@ -5917,18 +6502,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-05-20",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/"
       },
       "operating_cash_flow": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-05-20",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/"
       },
       "capex": {
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-05-20",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/"
       }
      },
@@ -5949,18 +6537,21 @@
        "method": "direct",
        "form": "10-Q",
        "filed": "2026-08-26",
+       "tag": "Revenues",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/"
       },
       "operating_cash_flow": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-08-26",
+       "tag": "NetCashProvidedByUsedInOperatingActivities",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/"
       },
       "capex": {
        "method": "derived",
        "form": "10-Q",
        "filed": "2026-08-26",
+       "tag": "PaymentsToAcquireProductiveAssets",
        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/"
       }
      },
